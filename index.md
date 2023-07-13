@@ -1,4 +1,4 @@
-# Bin Guo (郭斌) Ph.D
+# About Me
 I will be an assistant professor at [Trent University](https://www.trentu.ca/) starting in Jan. 2024. Currently, I am a postdoctoral fellow at [McMaster University](https://dailynews.mcmaster.ca/). I obtained my Ph.D. degree in Computer Science from McMaster University in May 2023. I obtained my Master's degree in Applied Computer Science from [Winnipeg University](https://www.uwinnipeg.ca/) in May 2018. 
 
 ---
@@ -29,7 +29,7 @@ At McMaster University:
 # Selected Publication
 My full publication list is on Google Scholar.
 ## Thesis 
-- GUO, BIN. MULTI-CORE PARALLEL GRAPH ALGORITHMS. PhD Thesis. 2023. [PDF](https://macsphere.mcmaster.ca/bitstream/11375/28562/2/Guo_Bin_2023May_PhD.pdf) [Slides]()
+- GUO, BIN. MULTI-CORE PARALLEL GRAPH ALGORITHMS. PhD Thesis. 2023. [Thesis pdf](https://macsphere.mcmaster.ca/bitstream/11375/28562/2/Guo_Bin_2023May_PhD.pdf) [Presentation Slides ppt](publication/thesis/Defense-2.pptx) [Presentaion slides pdf](publication/thesis/Defense-2.pdf)
 
 ---
 
