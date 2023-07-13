@@ -1,0 +1,42 @@
+# Bin Guo (郭斌) Ph.D
+I will be an assistant professor at [Trent University](https://www.trentu.ca/) starting in Jan. 2024. Currently, I am a postdoctoral fellow at [McMaster University](https://dailynews.mcmaster.ca/). I obtained my Ph.D. degree in Computer Science from McMaster University in May 2023. I obtained my Master's degree in Applied Computer Science from [Winnipeg University](https://www.uwinnipeg.ca/) in May 2018. 
+
+---
+
+# Research Project
+My research interest lies broadly in graphs. Specifically, I study many kinds of graph algorithms in parallel and distributed computing. My Ph.D. studies focus on parallel algorithms of k-core decomposition and maintenance on shared memory multi-core machines. My recent research focuses on parallel or distributed algorithms in terms of graph queries and graph mining.
+
+---
+
+# Recruit Students
+I am seeking highly motivated and dedicated Master's students starting from Winter 2024. Prospective candidates should have a background in data structure and algorithms (especially on graphs), parallel computing, and C/C++ programming experience. If you are interested, please send me your CV and a short research proposal.
+
+---
+
+# Teaching 
+
+At Trent University: 
+- COIS-3320H: Fundamentals of Operating Systems \[Winter 2024\]
+- COIS-4370H: Computer and Information Security \[Winter 2024\]
+  
+At McMaster University:
+- COMPSCI 1MD3: Introduction to Programming \[Spring 2023\] 
+- COMPSCI 1DM3: Discrete Mathematics for Computer Science\[Winter 2022\]
+- SFWRENG 3BB4: Concurrent System Design \[Fall 2021\]
+
+---
+
+# Selected Publication
+My full publication list is on Google Scholar.
+## Thesis 
+- GUO, BIN. MULTI-CORE PARALLEL GRAPH ALGORITHMS. PhD Thesis. 2023. [PDF](https://macsphere.mcmaster.ca/bitstream/11375/28562/2/Guo_Bin_2023May_PhD.pdf) [Slides]()
+
+---
+
+## Journal
+
+---
+
+## Conference
+
+
