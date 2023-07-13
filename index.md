@@ -27,16 +27,15 @@ At McMaster University:
 ---
 
 # Selected Publication
-My full publication list is on Google Scholar.
+My full publication list is on the [Google Scholar](https://scholar.google.com/citations?user=m3ONACQAAAAJ&hl=en). Here is my thesis and selected important publication. 
 ## Thesis 
 - MULTI-CORE PARALLEL GRAPH ALGORITHMS. Bin Guo. PhD Thesis. 2023. [Thesis pdf](https://macsphere.mcmaster.ca/bitstream/11375/28562/2/Guo_Bin_2023May_PhD.pdf), [Defense Slides ppt](publication/thesis/Defense-2.pptx), [Defense slides pdf](publication/thesis/Defense-2.pdf)
 
 - On the Evaluation of Pattern Match Queries in Large Graph Databases. Bin Guo. Master Thesis. 2018 [Thesis pdf](https://winnspace.uwinnipeg.ca/bitstream/handle/10680/1997/Guo_Bin_final_thesis.pdf?sequence=1), [Defense Slides ppt](publication/thesis/defence-V1.5.pptx), [Defense slides pdf](publication/thesis/defence-V1.5.pdf)
 
 ## Journal
-
----
+- Guo, Bin, and Emil Sekerinski. "Efficient parallel graph trimming by arc-consistency." The Journal of Supercomputing 78.13 (2022): 15269-15313. [springer](https://link.springer.com/article/10.1007/s11227-022-04457-9),[arXiv pdf](https://arxiv.org/pdf/2210.14290.pdf)
 
 ## Conference
-
+- Guo, Bin, and Emil Sekerinski. "Parallel order-based core maintenance in dynamic graphs." ICPP (2022). [arXiv pdf](https://arxiv.org/pdf/2210.14290.pdf)
 
