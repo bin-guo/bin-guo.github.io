@@ -29,9 +29,9 @@ At McMaster University:
 # Selected Publication
 My full publication list is on Google Scholar.
 ## Thesis 
-- GUO, BIN. MULTI-CORE PARALLEL GRAPH ALGORITHMS. PhD Thesis. 2023. [Thesis pdf](https://macsphere.mcmaster.ca/bitstream/11375/28562/2/Guo_Bin_2023May_PhD.pdf), [Presentation Slides ppt](publication/thesis/Defense-2.pptx), [Presentaion slides pdf](publication/thesis/Defense-2.pdf)
+- MULTI-CORE PARALLEL GRAPH ALGORITHMS. Bin Guo. PhD Thesis. 2023. [Thesis pdf](https://macsphere.mcmaster.ca/bitstream/11375/28562/2/Guo_Bin_2023May_PhD.pdf), [Defense Slides ppt](publication/thesis/Defense-2.pptx), [Defense slides pdf](publication/thesis/Defense-2.pdf)
 
----
+- On the Evaluation of Pattern Match Queries in Large Graph Databases. Bin Guo. Master Thesis. 2018 [Thesis pdf](https://winnspace.uwinnipeg.ca/bitstream/handle/10680/1997/Guo_Bin_final_thesis.pdf?sequence=1), [Defense Slides ppt](publication/thesis/defence-V1.5.pptx), [Defense slides pdf](publication/thesis/defence-V1.5.pdf)
 
 ## Journal
 
