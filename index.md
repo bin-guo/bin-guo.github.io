@@ -30,7 +30,15 @@ At McMaster University:
 ---
 
 # Selected Publication
-My full publication list is on the [Google Scholar](https://scholar.google.com/citations?user=m3ONACQAAAAJ&hl=en). Here is my thesis and selected important publication. 
+My full publication list is on the [Google Scholar](https://scholar.google.com/citations?user=m3ONACQAAAAJ&hl=en). All papers have the arXiv version for reading. 
+Here is my thesis and selected important publication. 
+
+## Preprint
+
+- Guo, Bin; Sekerinski, Emil; 	Simplified Algorithms for Order-Based Core Maintenance 2022
+- Guo, Bin; Sekerinski, Emil; 	New Parallel Order Maintenance Data Structure	arXiv preprint arXiv:2208.07800				2022
+
+
 ## Thesis 
 - MULTI-CORE PARALLEL GRAPH ALGORITHMS. Bin Guo. PhD Thesis. 2023. [Thesis pdf](https://macsphere.mcmaster.ca/bitstream/11375/28562/2/Guo_Bin_2023May_PhD.pdf), [Defense Slides ppt](publication/thesis/Defense-2.pptx), [Defense slides pdf](publication/thesis/Defense-2.pdf)
 
@@ -38,7 +46,15 @@ My full publication list is on the [Google Scholar](https://scholar.google.com/c
 
 ## Journal
 - Guo, Bin, and Emil Sekerinski. "Efficient parallel graph trimming by arc-consistency." The Journal of Supercomputing 78.13 (2022): 15269-15313. [springer](https://link.springer.com/article/10.1007/s11227-022-04457-9),[arXiv pdf](https://arxiv.org/pdf/2210.14290.pdf)
+  
+- Chen, Yangjun; Guo, Bin; Huang, Xingyue; 	δ-Transitive closures and triangle consistency checking: a new way to evaluate graph pattern queries in large graph databases	The Journal of Supercomputing	76		8140-8174	2020	Springer US
+
+
+
 
 ## Conference
 - Guo, Bin, and Emil Sekerinski. "Parallel order-based core maintenance in dynamic graphs." ICPP (2022). [arXiv pdf](https://arxiv.org/pdf/2210.14290.pdf)
+
+- Guo, Bin; Nagy, Jason; Sekerinski, Emil; 	Universal Design of Interactive Mathematical Notebooks on Programming	Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2			1132-1132	2022
+
 
