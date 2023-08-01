@@ -1,5 +1,7 @@
 # About Me
 I will be an assistant professor at [Trent University](https://www.trentu.ca/) starting in Jan. 2024. Currently, I am a postdoctoral fellow at [McMaster University](https://dailynews.mcmaster.ca/). I obtained my Ph.D. degree in Computer Science from McMaster University in May 2023. I obtained my Master's degree in Applied Computer Science from [Winnipeg University](https://www.uwinnipeg.ca/) in May 2018. 
+My Email is [binguo\[at\]trentu.ca](mailto:binguo@trentu.ca).
+
 
 ---
 
