@@ -1,9 +1,18 @@
 # About Me
 I will be an assistant professor at [Trent University](https://www.trentu.ca/) starting in Jan. 2024. Currently, I am a postdoctoral fellow at [McMaster University](https://dailynews.mcmaster.ca/). I obtained my Ph.D. degree in Computer Science from [McMaster University](https://dailynews.mcmaster.ca/) in May 2023. I obtained my Master's degree in Applied Computer Science from [Winnipeg University](https://www.uwinnipeg.ca/) in May 2018. My research area is parallel computing, data structures, graph algorithms, and graph mining. 
 
-
 My Email is [binguo\[at\]trentu.ca](mailto:binguo@trentu.ca).
 
+## Trent University 
+
+Trent University is a public liberal arts university in Peterborough, Ontario, with a satellite campus in Oshawa, which serves the Regional Municipality of Durham. Trent is known for its Oxbridge college system and small class sizes. 
+
+As a collegiate university, Trent is made up of five colleges. Each college has its own residence halls, dining room, and student government. The student government (Cabinet) and its committees cooperate with the College Office and dons in planning and delivering a variety of events for both its non-resident and resident members: visiting scholars, artists, musicians, scientists; College dinners and dances; Fall and Winter College Weekend; and intramural co-educational competitions in a number of sports. Although Trent University is predominantly undergraduate, graduate programs are offered at the master's and doctoral levels.
+
+The Symons campus of Trent, named after founding president Thomas Symons, is located on the banks of the Otonabee River at the northeast corner of the City of Peterborough. The Symons campus plan and its original college buildings, including Champlain College, Lady Eaton College, Bata Library, Chemistry Building, and the Faryon bridge which spans the Otonabee, were designed by Canadian architect Ron Thom.
+
+Over 9 000 undergraduate students and over 800 graduate students are enrolled at the Peterborough campus while Trent University Durham GTA serves over 1 900 full- and part-time students at the campus on Thornton Road in Oshawa. The university is represented in Canadian Interuniversity Sport by the Trent Excalibur.
+See [Wiki](https://en.wikipedia.org/wiki/Trent_University).  
 
 ---
 
