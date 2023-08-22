@@ -57,7 +57,7 @@ Here is my thesis and selected important publication.
 
 
 ## Conference
-- Guo, Bin, and Emil Sekerinski. "Parallel order-based core maintenance in dynamic graphs." ICPP (2022). [arXiv pdf](https://arxiv.org/pdf/2210.14290.pdf)
+- Guo, Bin, and Emil Sekerinski. "Parallel order-based core maintenance in dynamic graphs." ICPP (2022). [arXiv pdf](https://arxiv.org/pdf/2210.14290.pdf) [Presentation ppt](publication/icpp2023/icpp23-2.pptx) [Presentation pdf](publication/icpp2023/icpp23-2.pdf) [Poster pdf](publication/icpp2023/icpp23-poster.pdf)
 
 - Guo, Bin; Nagy, Jason; Sekerinski, Emil; 	Universal Design of Interactive Mathematical Notebooks on Programming	Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2			1132-1132	2022
 
