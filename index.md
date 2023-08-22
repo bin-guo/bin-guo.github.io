@@ -18,8 +18,8 @@ I am seeking highly motivated and dedicated Master's students starting from Wint
 Our Computer Science department will provide many funding or scholarship opportunities to cover the tuition fee, like TA; also, I can provide part of the funding to support you. 
 If you are interested, please send me your CV and a proposal to my [email](mailto:binguo@trentu.ca). I am happy to be your supervisor. 
 
-Finally, if you like living in Canada, I encourage international students to apply for the master's program at Trent University. 
-After graduating, you can apply for a [nomination for permanent residence in Ontario](https://www.ontario.ca/page/oinp-masters-graduate-stream)， if you have a master's degree from an Ontario university.
+Finally, if you like living in Canada, I encourage **international students** to apply for the master's program at Trent University. 
+After graduating, you can apply for a [nomination for permanent residence in Ontario](https://www.ontario.ca/page/oinp-masters-graduate-stream)，if you have a master's degree from an Ontario university.
 
 ---
 
