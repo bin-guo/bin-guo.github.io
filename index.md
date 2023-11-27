@@ -17,7 +17,17 @@ See [Wiki](https://en.wikipedia.org/wiki/Trent_University).
 ---
 
 # Research Project
-My research interest lies broadly in graphs. Specifically, I study many kinds of graph algorithms in parallel and distributed computing. My Ph.D. studies focus on parallel algorithms of k-core decomposition and maintenance on shared memory multi-core machines. My recent research focuses on parallel or distributed algorithms in terms of graph queries and graph mining.
+My research interest lies broadly in graphs. Specifically, I study many kinds of graph algorithms in parallel and distributed computing. My Ph.D. studies focus on parallel algorithms of k-core decomposition and maintenance on shared memory multi-core machines. My recent research focuses on parallel or distributed algorithms in terms of graph queries and graph mining. Here are several research projects that I am currently doing or plan to do:
+
+## Parallel Graph Algorithms
+The traditional sequential graph algorithms need to be parallelized. The multi-core shared memory architectures are prevalent in recent years. We design parallel graph algorithms that can execute on multi-core CPU, e.g. AMD Ryzen Threadripper 3990X which has 64 cores, to achieve good speedups. For details, you can read my selected papers: 
+* [Parallel Order-Based Core Maintenance in Dynamic Graphs](https://dl.acm.org/doi/abs/10.1145/3605573.3605597). This paper has been published at the top conference, the 52nd International Conference on Parallel Processing (ICPP 2023). It proposes a parallel algorithm of core maintenance, which is an important graph algorithm and has many applications. 
+* [Efficient parallel graph trimming by arc-consistency](https://link.springer.com/article/10.1007/s11227-022-04457-9). This paper has been published in the Journal of Supercomputing.
+
+## Distributed and Federated Graph Algorithms 
+The traditional distributed graph algorithms tend to use centralized servers for synchronization and never consider data privacy & security. We try to improve these distributed algorithms by using decentralized methods and protecting private information, so-called federated algorithms. Currently, I am working on the Federated Core Maintenance Problems. 
+
+
 
 ---
 
