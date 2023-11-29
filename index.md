@@ -23,7 +23,29 @@ Our Computer Science department recruits master's students under the **Applied M
 ---
 
 # My Research Projects
-My research interest lies broadly in graphs. Specifically, I study many kinds of graph algorithms in parallel and distributed computing. My Ph.D. studies focus on parallel algorithms of k-core decomposition and maintenance on shared memory multi-core machines. My recent research focuses on parallel or distributed algorithms in terms of graph queries and graph mining. Here are several research projects that I am currently doing or plan to do:
+My research interest lies broadly in graphs. Graphs are important data structures that have many applications, such as social networks, weblink networks, and biological networks. Specifically, I study many kinds of graph algorithms in parallel and distributed computing. My Ph.D. studies focus on parallel algorithms of k-core decomposition and maintenance on shared memory multi-core machines. My recent research focuses on parallel or distributed algorithms in terms of graph queries and graph mining. The below two pictures show an example of social networks.  
+
+<!--
+<img align="center" width="400" src="assets/social-network.jpg">
+<img align="center" width="400" src="assets/graph-data.jpeg">
+-->
+
+<table>
+<tr>
+<td>
+
+<img align="center" width="400" src="assets/social-network.jpg">
+
+</td>
+<td>
+
+<img align="center" width="400" src="assets/graph-data.jpeg">
+
+</td>
+</tr>
+</table>
+
+Here are several research projects that I am currently doing or plan to do:
 
 ## 1) Parallel Graph Algorithms
 The traditional sequential graph algorithms need to be parallelized. The multi-core shared memory architectures are prevalent in recent years. We design parallel graph algorithms that can execute on multi-core CPUs, e.g. AMD Ryzen Threadripper 3990X with 64 cores, to achieve good speedups. For details, you can read my selected papers: 
