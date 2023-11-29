@@ -62,6 +62,8 @@ The traditional distributed graph algorithms tend to use centralized servers for
 # Recruit Students
 I am seeking highly motivated and dedicated Master's students starting from Winter 2024. Prospective candidates should have a background in __data structure and algorithms__ (especially on graphs), __parallel computing__, and C/C++ programming experience. __If you do not have such a background or your major is not computer science, it does not matter__; we still can talk and make a good research plan. During your master's studies, you will do experiments (mostly C++ programming) and finish a thesis. You will have the opportunity to work closely with me and collaborate with our team members.
 
+I am also recruiting PhD students. Since our department does not have PhD program, I can collaborate with the [Computing and Sofware Department at McMaster University](https://www.eng.mcmaster.ca/cas/programs/degree-options/phd-computer-science/) as a cosupervisor. That means you are McMaster's PhD students; you have a supervisor at McMaster and me as a cosupervisor. 
+
 Our Computer Science department will provide many funding or scholarship opportunities to cover the tuition fee, like TA; also, I can provide part of the funding to support you. 
 If you are interested, please send me your CV and a proposal to my [email](mailto:binguo@trentu.ca). I am happy to be your supervisor. 
 
