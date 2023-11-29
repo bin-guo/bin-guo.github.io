@@ -2,6 +2,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Dr. Bin Guo (郭斌) 
-description: Assistant Professor at Trent University, Department of Computer Science.
+description: Assistant Professor at Trent University, Department of Computer Science. Email (binguo[at]trentu.ca)
 show_downloads: true
 logo: assets/binguo.jpg
