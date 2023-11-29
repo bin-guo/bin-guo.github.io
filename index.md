@@ -22,7 +22,7 @@ Our Computer Science department recruits master's students under the **Applied M
 
 ---
 
-# My Research Projects
+# Research Projects
 My research interest lies broadly in graphs. Graphs are important data structures that have many applications, such as social networks, weblink networks, and biological networks. Specifically, I study many kinds of graph algorithms in parallel and distributed computing. My Ph.D. studies focus on parallel algorithms of k-core decomposition and maintenance on shared memory multi-core machines. My recent research focuses on parallel or distributed algorithms in terms of graph queries and graph mining. The below two pictures show an example of social networks.  
 
 <!--
