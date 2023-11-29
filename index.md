@@ -68,9 +68,9 @@ Our Computer Science department will provide many funding or scholarship opportu
 If you are interested, please send me your CV and a proposal to my [email](mailto:binguo@trentu.ca). I am happy to be your supervisor. 
 
 Finally, if you like living in Canada, I encourage **international students** to apply for the master's program at Trent University. 
-After graduating, you can apply for a [nomination for permanent residence in Ontario](https://www.ontario.ca/page/oinp-masters-graduate-stream)，if you have a master's degree from an Ontario university.
+After graduating, you can apply for a [nomination for permanent residence in Ontario](https://www.ontario.ca/page/oinp-masters-graduate-stream), if you have a master's degree from an Ontario university.
 
-If you are interested, please send me an email at [binguo\[at\]trentu.ca](mailto:binguo@trentu.ca), including your CV, transcripts, and what kinds of research you would like to do.
+Here is the [School of Graduate Studies](https://www.trentu.ca/graduatestudies/) and you can apply for [Applied Modelling and Quantitative Methods](https://www.trentu.ca/graduatestudies/sites/trentu.ca.graduatestudies/files/documents/Programs%20at%20a%20Glance%20from%20TrentU_GradStudies_Viewbook2023_Digital%5B65%5D.pdf). If you are interested in **thesis-based**, you must have a supervisor to finish a research thesis and I am happy to be your supervisor; please send me an email including your CV, transcripts, and what kinds of research you would like to do. If you are interested in course-based, you mush finish courses and do a project and you can directly apply. 
 
 ---
 
