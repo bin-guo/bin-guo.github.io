@@ -3,7 +3,7 @@ I will be an assistant professor at [Trent University](https://www.trentu.ca/) s
 
 My Email is [binguo\[at\]trentu.ca](mailto:binguo@trentu.ca).
 
-## Trent University 
+# Trent University 
 
 Trent University is a public liberal arts university in Peterborough, Ontario, with a satellite campus in Oshawa, which serves the Regional Municipality of Durham. Trent is known for its Oxbridge college system and small class sizes. 
 
@@ -14,9 +14,15 @@ The Symons campus of Trent, named after founding president Thomas Symons, is loc
 Over 9 000 undergraduate students and over 800 graduate students are enrolled at the Peterborough campus while Trent University Durham GTA serves over 1 900 full- and part-time students at the campus on Thornton Road in Oshawa. The university is represented in Canadian Interuniversity Sport by the Trent Excalibur.
 See [Wiki](https://en.wikipedia.org/wiki/Trent_University).  
 
+
+## 1) Computer Science Master's Program
+Currently, Trent University does not have a master's program in Computer Science. However, it has a master's program, so-called [**Applied Modelling and Quantitative Methods**](https://www.trentu.ca/amod/). This is an interdisciplinary program which leads towards an M.Sc. or M.A. degree in the application of techniques and theory of modelling in the natural sciences and social sciences. It encompasses the following traditional disciplines: Biology, Business Administration, Chemistry, **Computer Science**, Economics, Geography, Humanities, Mathematics, Philosophy, Physics & Astronomy, and Psychology. The program is designed to overcome some of the barriers to interdisciplinary collaboration by bringing together, at the graduate level, students who are actively applying modelling techniques in their thesis research in a broad range of disciplines. The research is in the social and natural sciences, and in fields in which Trent has demonstrated strong research performance. Although it is oriented towards quantitative models, utilizing computational, mathematical or statistical techniques, it is discipline-based and is not a program in applied mathematics. 
+
+Our Computer Science department recruits master's students under the **Applied Modelling and Quantitative Methods** program. If you apply this program if you would like to be a master's student in Computer Sciences. The detailed qualification for **Applied Modelling and Quantitative Methods** is [here](https://www.trentu.ca/graduatestudies/sites/trentu.ca.graduatestudies/files/documents/Programs%20at%20a%20Glance%20from%20TrentU_GradStudies_Viewbook2023_Digital%5B65%5D.pdf). 
+
 ---
 
-# Research Project
+# My Research Projects
 My research interest lies broadly in graphs. Specifically, I study many kinds of graph algorithms in parallel and distributed computing. My Ph.D. studies focus on parallel algorithms of k-core decomposition and maintenance on shared memory multi-core machines. My recent research focuses on parallel or distributed algorithms in terms of graph queries and graph mining. Here are several research projects that I am currently doing or plan to do:
 
 ## 1) Parallel Graph Algorithms
