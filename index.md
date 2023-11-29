@@ -62,6 +62,8 @@ The traditional distributed graph algorithms tend to use centralized servers for
 # Recruit Students
 I am seeking highly motivated and dedicated Master's students starting from Winter 2024. Prospective candidates should have a background in __data structure and algorithms__ (especially on graphs), __parallel computing__, and C/C++ programming experience. __If you do not have such a background or your major is not computer science, it does not matter__; we still can talk and make a good research plan. During your master's studies, you will do experiments (mostly C++ programming) and finish a thesis. You will have the opportunity to work closely with me and collaborate with our team members.
 
+Here is the [School of Graduate Studies](https://www.trentu.ca/graduatestudies/) and you can apply for [Applied Modelling and Quantitative Methods](https://www.trentu.ca/graduatestudies/sites/trentu.ca.graduatestudies/files/documents/Programs%20at%20a%20Glance%20from%20TrentU_GradStudies_Viewbook2023_Digital%5B65%5D.pdf), as our Computer Science is under such program (see my front introduction to Trent University). If you are interested in **thesis-based**, you must have a supervisor to finish a research thesis and I am happy to be your supervisor; please send me an email including your CV, transcripts, and what kinds of research you would like to do. If you are interested in course-based, you mush finish courses and do a project and you can directly apply. 
+
 I am also recruiting PhD students. Since our department does not have PhD program, I can collaborate with the [Computing and Sofware Department at McMaster University](https://www.eng.mcmaster.ca/cas/programs/degree-options/phd-computer-science/) as a cosupervisor. That means you are McMaster's PhD students; you have a supervisor at McMaster and me as a cosupervisor. 
 
 Our Computer Science department will provide many funding or scholarship opportunities to cover the tuition fee, like TA; also, I can provide part of the funding to support you. 
@@ -70,7 +72,7 @@ If you are interested, please send me your CV and a proposal to my [email](mailt
 Finally, if you like living in Canada, I encourage **international students** to apply for the master's program at Trent University. 
 After graduating, you can apply for a [nomination for permanent residence in Ontario](https://www.ontario.ca/page/oinp-masters-graduate-stream), if you have a master's degree from an Ontario university.
 
-Here is the [School of Graduate Studies](https://www.trentu.ca/graduatestudies/) and you can apply for [Applied Modelling and Quantitative Methods](https://www.trentu.ca/graduatestudies/sites/trentu.ca.graduatestudies/files/documents/Programs%20at%20a%20Glance%20from%20TrentU_GradStudies_Viewbook2023_Digital%5B65%5D.pdf). If you are interested in **thesis-based**, you must have a supervisor to finish a research thesis and I am happy to be your supervisor; please send me an email including your CV, transcripts, and what kinds of research you would like to do. If you are interested in course-based, you mush finish courses and do a project and you can directly apply. 
+
 
 ---
 
