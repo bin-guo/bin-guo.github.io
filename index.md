@@ -1,7 +1,7 @@
 # About Me
 I am an assistant professor at [Trent University](https://www.trentu.ca/) starting in Jan. 2024. Before that, I was a postdoctoral fellow at [McMaster University](https://dailynews.mcmaster.ca/) from May 2023 to Dec. 2023. I obtained my Ph.D. degree in Computer Science from [McMaster University](https://dailynews.mcmaster.ca/) in May 2023. I obtained my Master's degree in Applied Computer Science from [Winnipeg University](https://www.uwinnipeg.ca/) in May 2018. My research area is parallel computing, data structures, graph algorithms, and graph mining. 
 
-I always work at the Peterborough campus. My Email is [binguo\[at\]trentu.ca](mailto:binguo@trentu.ca).
+I always work at the Peterborough campus. My Email is [binguo\[at\]trentu.ca](mailto:binguo@trentu.ca). My name on the department website is [here](https://www.trentu.ca/cois/faculty-research).
 
 # Trent University 
 
