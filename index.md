@@ -72,7 +72,13 @@ If you are interested, please send me your CV and a proposal to my [email](mailt
 Finally, if you like living in Canada, I encourage **international students** to apply for the master's program at Trent University. 
 After graduating, you can apply for a [nomination for permanent residence in Ontario](https://www.ontario.ca/page/oinp-masters-graduate-stream), if you have a master's degree from an Ontario university.
 
+---
 
+# My Students
+
+## Current Students
+Master: 
+* R.Z. Zhao (Master of Engineering at McMaster University, Cosupervise with Dr. Emil Sekerinski)
 
 ---
 
