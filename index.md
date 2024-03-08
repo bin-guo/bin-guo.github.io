@@ -78,7 +78,7 @@ After graduating, you can apply for a [nomination for permanent residence in Ont
 
 ## Current Students
 Master: 
-* R.Z. Zhao (Master of Engineering at McMaster University, Cosupervise with Dr. Emil Sekerinski)
+* R.Z. Zhao, Master of Engineering at McMaster University (Cosupervise with Dr. Emil Sekerinski), Experimental Evaluation of Distributed Core Decomposition.
 
 ---
 
