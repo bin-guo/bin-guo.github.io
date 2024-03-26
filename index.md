@@ -72,11 +72,11 @@ Here is the [School of Graduate Studies](https://www.trentu.ca/graduatestudies/)
 
 For the coming years, I am sure that our AMOD program will provide a fixed amount of funding for thesis-based master's students as the following table. I still can provide part of the funding, which we can discuss later. The tuition fee for international students is very high, around $240,000. Such funding can provide you with lots of financial support. 
 
-|Source of Funding | Year 1 (2023-2024)| Year 2 (2024-2025)|
+|Source of Funding | Year 1 (2024-2025)| Year 2 (2025-2026)|
 |---	|---	|---	|
 |Graduate Teaching Assistantship| $11,515.91 | $11,515.91|
 |Graduate Research Fellowship |$4,500 |$4,500|
-|Research Fellowship Award (optional from the Supervisor)| | |
+|Research Fellowship Award <br /> (optional from the Supervisor)| | |
 |Total Funding |$16,015.91 | $16,015.91|
 
 ## PhD Students
