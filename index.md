@@ -65,7 +65,7 @@ Our research on graph algorithms can be extended to privacy and security. The pr
 ---
 
 # Recruit Students
-## Master's Students
+## 1) Master's Students
 I am seeking highly motivated and dedicated Master's students starting from Winter 2024. Before connecting with me, you must satisfy the basic requirement of our department, e.g, minimum GPA 77% in last 10 credits and IELTS 6.5 with no band below 6.0. Prospective candidates should have a background in __data structure and algorithms__ (especially on graphs), __parallel computing__, and C/C++ programming experience. __If you do not have such a background or your major is not computer science, it does not matter__; we still can talk and make a good research plan. During your master's studies, you will do experiments (mostly C++ programming) and finish a thesis. You will have the opportunity to work closely with me and collaborate with our team members.
 
 Here is the [School of Graduate Studies](https://www.trentu.ca/graduatestudies/) and you can apply for [Applied Modelling and Quantitative Methods](https://www.trentu.ca/graduatestudies/sites/trentu.ca.graduatestudies/files/documents/Programs%20at%20a%20Glance%20from%20TrentU_GradStudies_Viewbook2023_Digital%5B65%5D.pdf), as our master program of Computer Science is under such program (see my front introduction to Trent University). If you are interested in **thesis-based**, you must find a supervisor to finish a research thesis and I am happy to be your supervisor; please send me an email including your CV, transcripts, and what kinds of research you would like to do. If you are interested in **course-based**, you must finish courses and do a project and you can directly apply. 
@@ -79,12 +79,12 @@ For the coming years, I am sure that our AMOD program will provide a fixed amoun
 |Research Fellowship Award <br /> (optional from the Supervisor)| | |
 |Total Funding |$16,015.91 | $16,015.91|
 
-## PhD Students
+## 2) PhD Students
 
 I am also recruiting PhD students. Since our department does not have PhD program, I can collaborate with the [Computing and Sofware Department at McMaster University](https://www.eng.mcmaster.ca/cas/programs/degree-options/phd-computer-science/) as a cosupervisor. That means you are McMaster's PhD students; you have a supervisor at McMaster and me as a cosupervisor. 
 
 
-Our Computer Science department will provide many funding or scholarship opportunities to cover the tuition fee, like TA; also, I can provide part of the funding to support you. The funding will be enough to pay for tuition fees and basic living expenses.
+At McMaster University, the Computing and Software department will provide many funding or scholarship opportunities to cover the tuition fee, like TA; also, I can provide part of the funding to support you. The funding will be enough to pay for tuition fees and basic living expenses.
 If you are interested, please send me your CV and a proposal to my [email](mailto:binguo@trentu.ca). I am happy to be your supervisor. 
 
 Finally, if you like living in Canada, I encourage **international students** to apply for the master's program at Trent University. 
@@ -94,7 +94,7 @@ After graduating, you can apply for a [nomination for permanent residence in Ont
 
 # My Students
 
-## Current Students
+## 1) Current Students
 Master: 
 * R.Z. Zhao, Master of Engineering at McMaster University (Cosupervise with Dr. Emil Sekerinski), Experimental Evaluation of Distributed Core Decomposition.
 
@@ -117,28 +117,29 @@ At McMaster University:
 My full publication list is on the [Google Scholar](https://scholar.google.com/citations?user=m3ONACQAAAAJ&hl=en). All papers have the arXiv version for reading. 
 Here is my thesis and selected important publication. 
 
-## Preprint
+## 1) Preprint
 
 - Guo, Bin; Sekerinski, Emil; 	Simplified Algorithms for Order-Based Core Maintenance 2022
 - Guo, Bin; Sekerinski, Emil; 	New Parallel Order Maintenance Data Structure	arXiv preprint arXiv:2208.07800				2022
 
+## 2) Conference
+- Guo, Bin, and Emil Sekerinski. "Parallel order-based core maintenance in dynamic graphs." ICPP (2022). [arXiv pdf](https://arxiv.org/pdf/2210.14290.pdf), [Presentation ppt](publication/icpp2023/icpp23-2.pptx), [Presentation pdf](publication/icpp2023/icpp23-2.pdf), [Poster pdf](publication/icpp2023/icpp23-poster.pdf)
 
-## Thesis 
-- MULTI-CORE PARALLEL GRAPH ALGORITHMS. Bin Guo. PhD Thesis. 2023. [Thesis pdf](https://macsphere.mcmaster.ca/bitstream/11375/28562/2/Guo_Bin_2023May_PhD.pdf), [Defense Slides ppt](publication/thesis/Defense-2.pptx), [Defense slides pdf](publication/thesis/Defense-2.pdf)
+- Guo, Bin; Nagy, Jason; Sekerinski, Emil; 	Universal Design of Interactive Mathematical Notebooks on Programming	Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2			1132-1132	2022
 
-- On the Evaluation of Pattern Match Queries in Large Graph Databases. Bin Guo. Master Thesis. 2018 [Thesis pdf](https://winnspace.uwinnipeg.ca/bitstream/handle/10680/1997/Guo_Bin_final_thesis.pdf?sequence=1), [Defense Slides ppt](publication/thesis/defence-V1.5.pptx), [Defense slides pdf](publication/thesis/defence-V1.5.pdf)
 
-## Journal
+
+## 3) Journal
 - Guo, Bin, and Emil Sekerinski. "Efficient parallel graph trimming by arc-consistency." The Journal of Supercomputing 78.13 (2022): 15269-15313. [springer](https://link.springer.com/article/10.1007/s11227-022-04457-9),[arXiv pdf](https://arxiv.org/pdf/2210.14290.pdf), [Presentation PPT](publication/icpp2023/icpp23-2.pptx), [Presentation PDF](publication/icpp2023/icpp23-2.pdf), [Poster PDF](publication/icpp2023/icpp23-poster.pdf)
   
 - Chen, Yangjun; Guo, Bin; Huang, Xingyue; 	δ-Transitive closures and triangle consistency checking: a new way to evaluate graph pattern queries in large graph databases	The Journal of Supercomputing	76		8140-8174	2020	Springer US
 
+## 4) Thesis 
+- MULTI-CORE PARALLEL GRAPH ALGORITHMS. Bin Guo. PhD Thesis. 2023. [Thesis pdf](https://macsphere.mcmaster.ca/bitstream/11375/28562/2/Guo_Bin_2023May_PhD.pdf), [Defense Slides ppt](publication/thesis/Defense-2.pptx), [Defense slides pdf](publication/thesis/Defense-2.pdf)
+
+- On the Evaluation of Pattern Match Queries in Large Graph Databases. Bin Guo. Master Thesis. 2018 [Thesis pdf](https://winnspace.uwinnipeg.ca/bitstream/handle/10680/1997/Guo_Bin_final_thesis.pdf?sequence=1), [Defense Slides ppt](publication/thesis/defence-V1.5.pptx), [Defense slides pdf](publication/thesis/defence-V1.5.pdf)
 
 
 
-## Conference
-- Guo, Bin, and Emil Sekerinski. "Parallel order-based core maintenance in dynamic graphs." ICPP (2022). [arXiv pdf](https://arxiv.org/pdf/2210.14290.pdf), [Presentation ppt](publication/icpp2023/icpp23-2.pptx), [Presentation pdf](publication/icpp2023/icpp23-2.pdf), [Poster pdf](publication/icpp2023/icpp23-poster.pdf)
-
-- Guo, Bin; Nagy, Jason; Sekerinski, Emil; 	Universal Design of Interactive Mathematical Notebooks on Programming	Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2			1132-1132	2022
 
 
