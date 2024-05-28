@@ -119,7 +119,7 @@ Here is my thesis and selected important publication.
 
 ## 1) Preprint
 
-- Guo, Bin; Sekerinski, Emil; 	Simplified Algorithms for Order-Based Core Maintenance 2022
+
 - Guo, Bin; Sekerinski, Emil; 	New Parallel Order Maintenance Data Structure	arXiv preprint arXiv:2208.07800				2022
 
 ## 2) Conference
@@ -130,7 +130,9 @@ Here is my thesis and selected important publication.
 
 
 ## 3) Journal
-- Guo, Bin, and Emil Sekerinski. "Efficient parallel graph trimming by arc-consistency." The Journal of Supercomputing 78.13 (2022): 15269-15313. [springer](https://link.springer.com/article/10.1007/s11227-022-04457-9),[arXiv pdf](https://arxiv.org/pdf/2210.14290.pdf), [Presentation PPT](publication/icpp2023/icpp23-2.pptx), [Presentation PDF](publication/icpp2023/icpp23-2.pdf), [Poster PDF](publication/icpp2023/icpp23-poster.pdf)
+- Guo, Bin; Sekerinski, Emil; 	"Simplified Algorithms for Order-Based Core Maintenance" The Journal of Supercomputing (2024) [springer](https://link.springer.com/article/10.1007/s11227-024-06190-x?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240528&utm_content=10.1007/s11227-024-06190-x), [pdf](publication/SC/Simplified.pdf)
+- 
+- Guo, Bin, and Emil Sekerinski. "Efficient parallel graph trimming by arc-consistency." The Journal of Supercomputing 78.13 (2022): 15269-15313. [springer](https://link.springer.com/article/10.1007/s11227-022-04457-9), [pdf](Efficient.pdf)
   
 - Chen, Yangjun; Guo, Bin; Huang, Xingyue; 	δ-Transitive closures and triangle consistency checking: a new way to evaluate graph pattern queries in large graph databases	The Journal of Supercomputing	76		8140-8174	2020	Springer US
 
