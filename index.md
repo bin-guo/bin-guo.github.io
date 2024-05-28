@@ -134,7 +134,7 @@ Here is my thesis and selected important publication.
   
 - Guo, Bin, and Emil Sekerinski. "Efficient parallel graph trimming by arc-consistency." The Journal of Supercomputing 78.13 (2022): 15269-15313. [springer](https://link.springer.com/article/10.1007/s11227-022-04457-9), [pdf](publication/SC/Efficient.pdf)
   
-- Chen, Yangjun; Guo, Bin; Huang, Xingyue; 	δ-Transitive closures and triangle consistency checking: a new way to evaluate graph pattern queries in large graph databases	The Journal of Supercomputing	76		8140-8174	2020	Springer US
+- Chen, Yangjun; Guo, Bin; Huang, Xingyue; 	δ-Transitive closures and triangle consistency checking: a new way to evaluate graph pattern queries in large graph databases	The Journal of Supercomputing	76		8140-8174	2020	Springer US, [pdf](publication/SC/Transitive.pdf)
 
 ## 4) Thesis 
 - MULTI-CORE PARALLEL GRAPH ALGORITHMS. Bin Guo. PhD Thesis. 2023. [Thesis pdf](https://macsphere.mcmaster.ca/bitstream/11375/28562/2/Guo_Bin_2023May_PhD.pdf), [Defense Slides ppt](publication/thesis/Defense-2.pptx), [Defense slides pdf](publication/thesis/Defense-2.pdf)
