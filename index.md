@@ -99,6 +99,7 @@ I am also recruiting PhD students. Since I am a adjuct member at McMaster Univer
 
 
 At McMaster University, the Computing and Software department will provide many funding or scholarship opportunities; also, I can provide part of the funding to support you. The funding will be enough to pay for tuition fees and basic living expenses (the internation students will get the same support). 
+
 If you are interested, please send me your CV and a proposal to my [email](mailto:binguo@trentu.ca). I am happy to be your supervisor. 
 
 ## 4) International Students
