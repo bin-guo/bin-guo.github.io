@@ -65,8 +65,11 @@ Our research on graph algorithms can be extended to privacy and security. The pr
 ---
 
 # Recruit Students
-## 1) Master's Students
-I am seeking highly motivated and dedicated Master's students starting from Winter 2024. Before connecting with me, you must satisfy the basic requirement of our department, e.g, minimum GPA 77% in last 10 credits and IELTS 6.5 with no band below 6.0. Prospective candidates should have a background in __data structure and algorithms__ (especially on graphs), __parallel computing__, and C/C++ programming experience. __If you do not have such a background or your major is not computer science, it does not matter__; we still can talk and make a good research plan. During your master's studies, you will do experiments (mostly C++ programming) and finish a thesis. You will have the opportunity to work closely with me and collaborate with our team members.
+
+## 1) Master's Students at Trent University
+If you want to apply the course-based program like Big Data, you can directly apply without a supervisor. 
+
+I am seeking highly motivated and dedicated Master's students (thesis-based computer science stream) starting from Winter 2024. Before connecting with me, you must satisfy the basic requirement of our department, e.g, minimum GPA 77% in last 10 credits and IELTS 6.5 with no band below 6.0. Prospective candidates should have a background in __data structure and algorithms__ (especially on graphs), __parallel computing__, and C/C++ programming experience. __If you do not have such a background or your major is not computer science, it does not matter__; we still can talk and make a good research plan. During your master's studies, you will do experiments (mostly C++ programming) and finish a thesis. You will have the opportunity to work closely with me and collaborate with our team members.
 
 Here is the [School of Graduate Studies](https://www.trentu.ca/graduatestudies/) and you can apply for [Applied Modelling and Quantitative Methods](https://www.trentu.ca/graduatestudies/sites/trentu.ca.graduatestudies/files/documents/Programs%20at%20a%20Glance%20from%20TrentU_GradStudies_Viewbook2023_Digital%5B65%5D.pdf), as our master program of Computer Science is under such program (see my front introduction to Trent University). If you are interested in **thesis-based**, you must find a supervisor to finish a research thesis and I am happy to be your supervisor; please send me an email including your CV, transcripts, and what kinds of research you would like to do. If you are interested in **course-based**, you must finish courses and do a project and you can directly apply. 
 
@@ -79,16 +82,29 @@ For the coming years, I am sure that our AMOD program will provide a fixed amoun
 |Research Fellowship Award <br /> (optional from the Supervisor)| | |
 |Total Funding |$16,015.91 | $16,015.91|
 
-## 2) PhD Students
-
-I am also recruiting PhD students. Since our department does not have PhD program, I can collaborate with the [Computing and Sofware Department at McMaster University](https://www.eng.mcmaster.ca/cas/programs/degree-options/phd-computer-science/) as a cosupervisor. That means you are McMaster's PhD students; you have a supervisor at McMaster and me as a cosupervisor. 
-
-
-At McMaster University, the Computing and Software department will provide many funding or scholarship opportunities to cover the tuition fee, like TA; also, I can provide part of the funding to support you. The funding will be enough to pay for tuition fees and basic living expenses.
 If you are interested, please send me your CV and a proposal to my [email](mailto:binguo@trentu.ca). I am happy to be your supervisor. 
 
-Finally, if you like living in Canada, I encourage **international students** to apply for the master's program at Trent University. 
-After graduating, you can apply for a [nomination for permanent residence in Ontario](https://www.ontario.ca/page/oinp-masters-graduate-stream), if you have a master's degree from an Ontario university.
+## 2) Master's Student at McMaster University
+Since I am a adjuct member at McMaster University, I am also seeking Master's student at McMaster Univeristy. There are two steam: MEng and MSc
+
+For the [MEng](https://www.eng.mcmaster.ca/cas/degree-options/computing-and-software-meng/) program, you will study at McMaster and I can be your co-supervisor. __You may not get the funding.__ Students must successfully complete six half (one-term) graduate courses and an independent project demonstrating the ability to carry out independent studies and reach a satisfactory conclusion in an area of Computing and Software.
+
+Also, for the [MSc](https://www.eng.mcmaster.ca/cas/degree-options/computer-science-msc/) program, you will study at McMaster and I can be your co-supervisor. __You are possible to get the funding and we can discuss the details if you are interested.__ Student must successfully complete four half (two-term) graduate courses and an high quality independent master's thesis. 
+
+If you are interested, please send me your CV and a proposal to my [email](mailto:binguo@trentu.ca). I am happy to be your co-supervisor. 
+
+## 3) PhD Students at McMaster University
+
+I am also recruiting PhD students. Since I am a adjuct member at McMaster University and Trent does not have Computer Science PhD program, I can collaborate with the [Computing and Sofware Department at McMaster University](https://www.eng.mcmaster.ca/cas/programs/degree-options/phd-computer-science/) as a cosupervisor. That means you are McMaster's PhD students; you have a supervisor at McMaster and me as a cosupervisor. 
+
+
+At McMaster University, the Computing and Software department will provide many funding or scholarship opportunities; also, I can provide part of the funding to support you. The funding will be enough to pay for tuition fees and basic living expenses (the internation students will get the same support). 
+If you are interested, please send me your CV and a proposal to my [email](mailto:binguo@trentu.ca). I am happy to be your supervisor. 
+
+## 4) International Students
+
+Finally, if you like living in Canada, I encourage **international students** to apply for the master's and PhD programs. 
+After graduating, you can apply for a [nomination for permanent residence in Ontario](https://www.ontario.ca/page/oinp-masters-graduate-stream), if you have a master's or PhD degree from an Ontario university.
 
 ---
 
