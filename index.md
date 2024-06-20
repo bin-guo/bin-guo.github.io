@@ -7,7 +7,7 @@ My research area mainly focused on parallel and distributed computing, especiall
 I work at the Peterborough campus of Trent University in person; my Email address is [binguo\[at\]trentu.ca](mailto:binguo@trentu.ca) and my name on the department website is [here](https://www.trentu.ca/cois/faculty-research). As an adjunct assistant professor at McMaster University, my Email address is [guob15\[at\]mcmaster.ca](mailto:guob15@mcmaster.ca) and my name on the department website is [here](https://www.eng.mcmaster.ca/cas/people/adjuncts-and-associates/).
 
 
-<span style="color:red;">Currely, I am recruiting highly motivated Master's and PhD students. For details see my section "Recruit Students" </span> 
+<span style="color:red;">Currely, I am recruiting highly motivated Master's and PhD students! For details see my section "Recruit Students".  </span> 
   
 ---
 
