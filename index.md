@@ -112,8 +112,12 @@ After graduating, you can apply for a [nomination for permanent residence in Ont
 # My Students
 
 ## 1) Current Students
+Summer Student:
+* Issec Lee, summer student at Trent, 2024, Experimental Evaluation of Multi-CAS in Concurrency.
+  
 Master: 
-* R.Z. Zhao, Master of Engineering at McMaster University (Cosupervise with Dr. Emil Sekerinski), Experimental Evaluation of Distributed Core Decomposition.
+* R.Z. Zhao, MEng at McMaster University (Cosupervise with Dr. Emil Sekerinski), 2023 - now,  Experimental Evaluation of Distributed Core Decomposition.
+
 
 ---
 
