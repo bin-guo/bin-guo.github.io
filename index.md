@@ -1,9 +1,13 @@
 # About Me
 I am an assistant professor at the Computer Science Department of [Trent University](https://www.trentu.ca/cois/) starting in Jan. 2024. Also, I am an adjunct assistant professor at the Computing & Software Department of [McMaster University](https://www.eng.mcmaster.ca/cas/). Before that, I was a postdoctoral fellow at [McMaster University](https://dailynews.mcmaster.ca/) from May 2023 to Dec. 2023. I obtained my Ph.D. degree in Computer Science from [McMaster University](https://dailynews.mcmaster.ca/) in May 2023. I obtained my Master's degree in Applied Computer Science from [Winnipeg University](https://www.uwinnipeg.ca/) in May 2018. 
 
-My research area is mainly focus on parallel and distributed computing on especially on graph algorithms and graph mining. Recently, I am also interested in the computer security for data graph analytics. My favorite conferences are ICPP, SPAA, PPoPP, VLDB, ICDE. My favorite journals are [The Journal of Supercompouting](https://link.springer.com/journal/11227) and [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td).
+My research area mainly focused on parallel and distributed computing, especially on graph algorithms and graph mining. Recently, I have been interested in computer security for data graph analytics. My favorite conferences are ICPP, SPAA, PPoPP, VLDB, and ICDE. My favorite journals are [The Journal of Supercompouting](https://link.springer.com/journal/11227) and [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td).
 
-I always work at the Peterborough campus of Trent University in person; my Email address is [binguo\[at\]trentu.ca](mailto:binguo@trentu.ca) and my name on the department website is [here](https://www.trentu.ca/cois/faculty-research). As an adjunct assistant professor at McMaster University, my Email address is [guob15\[at\]mcmaster.ca](mailto:guob15@mcmaster.ca) and my name on the department website is [here](https://www.eng.mcmaster.ca/cas/people/adjuncts-and-associates/).
+
+I work at the Peterborough campus of Trent University in person; my Email address is [binguo\[at\]trentu.ca](mailto:binguo@trentu.ca) and my name on the department website is [here](https://www.trentu.ca/cois/faculty-research). As an adjunct assistant professor at McMaster University, my Email address is [guob15\[at\]mcmaster.ca](mailto:guob15@mcmaster.ca) and my name on the department website is [here](https://www.eng.mcmaster.ca/cas/people/adjuncts-and-associates/).
+
+
+<span style="color:red;">Currely, I am recruiting highly motivated Master's and PhD students. For details see my section "Recruit Students" </span> 
   
 ---
 
