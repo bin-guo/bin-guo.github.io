@@ -94,7 +94,7 @@ For the coming years, I am sure that our AMOD program will provide a fixed amoun
 
 The [tuition fee](https://www.trentu.ca/graduatestudies/financial-matters/student-account-and-tuition/research-and-thesis-based-program-fees) for international students is very high, around $24,806 per academic year. I am actively applying for funding; if I obtain the funding, I could provide $5,000 to $10,000 per academic year. Such funding can provide you with lots of financial support. 
 
-For domestic students (including those who have PR), the tuition fee is $9,196 (Ontario) or $10,569 (Other Canadia) per academic year. Also, domestic students can apply to the [OSAP](https://www.ontario.ca/page/osap-ontario-student-assistance-program) (grants and loans, mostly no interest). 
+For domestic students (including those who have PR), the [tuition fee](https://www.trentu.ca/graduatestudies/financial-matters/student-account-and-tuition/research-and-thesis-based-program-fees) is $9,196 (Ontario) or $10,569 (Other Canadia) per academic year. Also, domestic students can apply to the [OSAP](https://www.ontario.ca/page/osap-ontario-student-assistance-program) (grants and loans, mostly no interest); the amount can be higher if you have lower income and funding, which can cover basic living fee.  
 
 If you are interested, please send me your CV and a proposal to my [email](mailto:binguo@trentu.ca). I am happy to be your supervisor. 
 
