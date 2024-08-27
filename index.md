@@ -83,7 +83,7 @@ Prospective candidates should have a background in __data structure and algorith
 Here is the [School of Graduate Studies](https://www.trentu.ca/graduatestudies/) and you can apply for [Applied Modelling and Quantitative Methods](https://www.trentu.ca/graduatestudies/sites/trentu.ca.graduatestudies/files/documents/Programs%20at%20a%20Glance%20from%20TrentU_GradStudies_Viewbook2023_Digital%5B65%5D.pdf), as our master program of Computer Science is under such program (see my front introduction to Trent University). If you are interested in **thesis-based**, you must find a supervisor to finish a research thesis and I am happy to be your supervisor; please send me an email including your CV, transcripts, and what kinds of research you would like to do. If you are interested in **course-based**, you must finish courses and do a project and you can directly apply. 
 
 ### Thesis-based AMOD program Funding and Tuition Fee
-For the coming years, I am sure that our AMOD program will provide a fixed amount of funding for thesis-based master's students as the following table. The [tuition fee](https://www.trentu.ca/graduatestudies/financial-matters/student-account-and-tuition/research-and-thesis-based-program-fees) for international students is very high, around $24,806 per academic year, while for domestic students it is $9,196 (Ontario) to $10,569 (Other Canadia) per academic year. I am actively applying for funding. If I obtain the funding, I could provide $5,000 to $10,000 per academic year. Such funding can provide you with lots of financial support. 
+For the coming years, I am sure that our AMOD program will provide a fixed amount of funding for thesis-based master's students as the following table. 
 
 |Source of Funding | Year 1 (2024-2025)| Year 2 (2025-2026)|
 |---	|---	|---	|
@@ -92,7 +92,9 @@ For the coming years, I am sure that our AMOD program will provide a fixed amoun
 |Research Fellowship Award <br /> (optional from the Supervisor)| | |
 |Total Funding |$16,015.91 | $16,015.91|
 
+The [tuition fee](https://www.trentu.ca/graduatestudies/financial-matters/student-account-and-tuition/research-and-thesis-based-program-fees) for international students is very high, around $24,806 per academic year. I am actively applying for funding; if I obtain the funding, I could provide $5,000 to $10,000 per academic year. Such funding can provide you with lots of financial support. 
 
+For domestic students (including those who have PR), the tuition fee is $9,196 (Ontario) or $10,569 (Other Canadia) per academic year. Also, domestic students can apply to the [OSAP](https://www.ontario.ca/page/osap-ontario-student-assistance-program) (grants and loans, mostly no interest). 
 
 If you are interested, please send me your CV and a proposal to my [email](mailto:binguo@trentu.ca). I am happy to be your supervisor. 
 
