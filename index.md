@@ -6,7 +6,7 @@ My research area mainly focused on parallel and distributed computing, especiall
 
 I work at the Peterborough campus of Trent University in person; my Email address is [binguo\[at\]trentu.ca](mailto:binguo@trentu.ca) and my name on the department website is [here](https://www.trentu.ca/cois/faculty-research). As an adjunct assistant professor at McMaster University, my Email address is [guob15\[at\]mcmaster.ca](mailto:guob15@mcmaster.ca) and my name on the department website is [here](https://www.eng.mcmaster.ca/cas/people/adjuncts-and-associates/).
 
-<span style="color:red; font-size:20px;">Currely, I am recruiting highly motivated Master's and PhD students! For details see my section "Recruit Students".  </span> 
+<span style="color:red; font-size:20px;">Currely, I am recruiting highly motivated Master's and PhD students! For details see my section "Recruit Students".</span> 
 
 
 
@@ -29,7 +29,7 @@ Currently, Trent University has a master's program in Computer Science under the
 
 Our Computer Science department recruits master's students under the **Applied Modelling and Quantitative Methods** program. If you apply to this program, you would like to be a master's student in Computer Sciences. The detailed qualification for **Applied Modelling and Quantitative Methods** is [here](https://www.trentu.ca/graduatestudies/sites/trentu.ca.graduatestudies/files/documents/Programs%20at%20a%20Glance%20from%20TrentU_GradStudies_Viewbook2023_Digital%5B65%5D.pdf). If your first language is not English or you do not have study experience at English countries, you should have **IELTS** (International English language Testing Services) and the minimum acceptance score is **6.5** with no band below **6.0**. The detailed proof of English Language is [here](https://www.trentu.ca/graduatestudies/how-apply/international-applicants).
 
-Good News! Currently, more and more master's students joining our Master's program. We are planning to set up our own independent Computer Science Master's program, which is not under AMOD. This program will include course-based and thesis-based, like other Canadian Universities. The process may cost half to one year.
+<span style="color:red; font-size:20px;">Good News!</span>  Currently, more and more master's students joining our Master's program. We are planning to set up our own independent Computer Science Master's program, which is not under AMOD. This program will include course-based and thesis-based, like other Canadian Universities. The process may cost half to one year.
 
 ---
 
