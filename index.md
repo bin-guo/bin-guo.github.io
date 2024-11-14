@@ -157,7 +157,7 @@ Here is my thesis and selected important publication.
 ## 1) Preprint
 
 
-- Guo, Bin; Sekerinski, Emil; Chu, Lingyuang. "Federated k-Core Decomposition: A Secure Distributed Approach" [Full paper](https://arxiv.org/pdf/2410.02544)
+- Guo, Bin; Sekerinski, Emil; Chu, Lingyuang. "Federated k-Core Decomposition: A Secure Distributed Approach" [Full paper](https://arxiv.org/pdf/2410.02544), P[Poster on CASCON 24](publication/CASCON/cascon24-poster.pdf)
 
 ## 2) Conference
 - Guo, Bin; Sekerinski, Emil. "New Parallel Order Maintenance Data Structure" PCDS(2024). [Presentation pdf](publication/PCDS2024/PCDS-BinGuo.pdf), [Presentation ppt](publication/PCDS2024/PCDS-BinGuo.pptx), [PCDS paper](publication/PCDS2024/PCDS-BinGuo.pdf), [full paper](https://arxiv.org/pdf/2208.07800)
