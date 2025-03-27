@@ -128,10 +128,28 @@ After graduating, you can apply for a [nomination for permanent residence in Ont
 # My Students
 
 ## 1) Current Students
-Summer Student:
+
+Undergraduate Summer Student: 
+* Igor Jardim-Martins, May 2025 - Aug. 2025
+-- Research Area: Efficient data structure based on Persistent Memory\\
+-- Current Status: Third-year undergraduate student at Trent University
+
+Thesis-based Master's Student: 
+* Syed Zarif, Jan. 2025 - Now
+    -- Research Area: Concurrent data structures in parallel computing\\
+    -- Received Graduate Teaching Assistantship, Graduate Research Fellow, and Research Fellowship Award (about \textbf{\$21,400} for each year, two years in total) at Trent University
+    
+* Michael Abiona, May 2025 - Now
+    -- Research Area: Parallel graph algorithms on $k$-truss maintenance\\
+    -- Received Graduate Teaching Assistantship, Graduate Research Fellow, and International International Graduate Scholarship (about \textbf{\$31,348} for each year, two years in total) at Trent University
+    
+
+## 2) Past Students
+
+Undergraduate Summer Student:
 * Issec Lee, summer student at Trent, 2024, Experimental Evaluation of Multi-CAS in Concurrency.
   
-Master: 
+Master Student: 
 * R.Z. Zhao, MEng at McMaster University (Cosupervise with Dr. Emil Sekerinski), 2023 - now,  Experimental Evaluation of Distributed Core Decomposition.
 
 
