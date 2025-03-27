@@ -131,22 +131,22 @@ After graduating, you can apply for a [nomination for permanent residence in Ont
 
 Undergraduate Summer Student: 
 * Igor Jardim-Martins, May 2025 - Aug. 2025
--- Research Area: Efficient data structure based on Persistent Memory
--- Received NSERC USRA Summer Student Funding and Trent University Research Development Grant (about $11,000 for summer 2025) 
--- Current Status: Third-year undergraduate student at Trent University
+    - Research Area: Efficient data structure based on Persistent Memory
+    - Received NSERC USRA Summer Student Funding and Trent University Research Development Grant (about $11,000 for summer 2025) 
+    - Current Status: Third-year undergraduate student at Trent University
 
 Thesis-based Master's Student: 
 * Gregory Prouty, will start in Sept. 2025
-    -- Research Area: $k$-Core Hierarchy Maintenance 
-    -- Received Graduate Teaching Assistantship, Graduate Research Fellow (about $16,400 for each year, two years in total) at Trent University
+    - Research Area: $k$-Core Hierarchy Maintenance 
+    - Received Graduate Teaching Assistantship, Graduate Research Fellow (about $16,400 for each year, two years in total) at Trent University
 
 * Michael Abiona, May 2025 - Now
-    -- Research Area: Parallel graph algorithms on $k$-truss maintenance
-    -- Received Graduate Teaching Assistantship, Graduate Research Fellow, and International International Graduate Scholarship (about $31,348 for each year, two years in total) at Trent University
+    - Research Area: Parallel graph algorithms on $k$-truss maintenance
+    - Received Graduate Teaching Assistantship, Graduate Research Fellow, and International International Graduate Scholarship (about $31,348 for each year, two years in total) at Trent University
   
 * Syed Zarif, Jan. 2025 - Now
-    -- Research Area: Concurrent data structures in parallel computing
-    -- Received Graduate Teaching Assistantship, Graduate Research Fellow, and Research Fellowship Award (about $21,400 for first year, $16,000 for second year) at Trent University
+    - Research Area: Concurrent data structures in parallel computing
+    - Received Graduate Teaching Assistantship, Graduate Research Fellow, and Research Fellowship Award (about $21,400 for first year, $16,000 for second year) at Trent University
     
 
 
