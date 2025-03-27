@@ -136,14 +136,20 @@ Undergraduate Summer Student:
 -- Current Status: Third-year undergraduate student at Trent University
 
 Thesis-based Master's Student: 
+* Gregory Prouty, will start in Sept. 2025
+    -- Research Area: $k$-Core Hierarchy Maintenance 
+    -- Received Graduate Teaching Assistantship, Graduate Research Fellow (about $16,400 for each year, two years in total) at Trent University
+
+* Michael Abiona, May 2025 - Now
+    -- Research Area: Parallel graph algorithms on $k$-truss maintenance
+    -- Received Graduate Teaching Assistantship, Graduate Research Fellow, and International International Graduate Scholarship (about $31,348 for each year, two years in total) at Trent University
+  
 * Syed Zarif, Jan. 2025 - Now
     -- Research Area: Concurrent data structures in parallel computing
     -- Received Graduate Teaching Assistantship, Graduate Research Fellow, and Research Fellowship Award (about $21,400 for first year, $16,000 for second year) at Trent University
     
-* Michael Abiona, May 2025 - Now
-    -- Research Area: Parallel graph algorithms on $k$-truss maintenance
-    -- Received Graduate Teaching Assistantship, Graduate Research Fellow, and International International Graduate Scholarship (about $31,348 for each year, two years in total) at Trent University
-    
+
+
 
 ## 2) Past Students
 
