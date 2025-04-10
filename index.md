@@ -1,7 +1,7 @@
 # About Me
 I am an assistant professor at the Computer Science Department of [Trent University](https://www.trentu.ca/cois/) starting in Jan. 2024. Also, I am an adjunct assistant professor at the Computing & Software Department of [McMaster University](https://www.eng.mcmaster.ca/cas/). Before that, I was a postdoctoral fellow at [McMaster University](https://dailynews.mcmaster.ca/) from May 2023 to Dec. 2023. I obtained my Ph.D. degree in Computer Science from [McMaster University](https://dailynews.mcmaster.ca/) in May 2023. I obtained my Master's degree in Applied Computer Science from [Winnipeg University](https://www.uwinnipeg.ca/) in May 2018. 
 
-My research area mainly focused on parallel and distributed computing, especially on graph algorithms and graph mining. Recently, I have been interested in computer security for data graph analytics. My favorite conferences are ICPP, SPAA, PPoPP, VLDB, and ICDE. My favorite journals are [The Journal of Supercompouting](https://link.springer.com/journal/11227) and [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td).
+My research area mainly focused on parallel and distributed computing, especially on graph algorithms and graph mining. Recently, I have been interested in computer security for data graph analytics. My favorite conferences are ICPP, SPAA, PPoPP, VLDB, and ICDE. My favorite journals are [The Journal of Supercomputing](https://link.springer.com/journal/11227) and [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td).
 
 
 I work at the Peterborough campus of Trent University in person; my Email address is [binguo\[at\]trentu.ca](mailto:binguo@trentu.ca) and my name on the department website is [here](https://www.trentu.ca/cois/faculty-research). As an adjunct assistant professor at McMaster University, my Email address is [guob15\[at\]mcmaster.ca](mailto:guob15@mcmaster.ca) and my name on the department website is [here](https://www.eng.mcmaster.ca/cas/people/adjuncts-and-associates/).
@@ -20,7 +20,7 @@ As a collegiate university, Trent is made up of five colleges. Each college has 
 
 The Symons campus of Trent, named after founding president Thomas Symons, is located on the banks of the Otonabee River at the northeast corner of the City of Peterborough. The Symons campus plan and its original college buildings, including Champlain College, Lady Eaton College, Bata Library, Chemistry Building, and the Faryon bridge which spans the Otonabee, were designed by Canadian architect Ron Thom.
 
-Over 9 000 undergraduate students and over 800 graduate students are enrolled at the Peterborough campus while Trent University Durham GTA serves over 1 900 full- and part-time students at the campus on Thornton Road in Oshawa. The university is represented in Canadian Interuniversity Sport by the Trent Excalibur.
+Over 9,000 undergraduate students and over 800 graduate students are enrolled at the Peterborough campus, while Trent University Durham GTA serves over 1,900 full- and part-time students at the campus on Thornton Road in Oshawa. The university is represented in Canadian Interuniversity Sport by the Trent Excalibur.
 See [Wiki](https://en.wikipedia.org/wiki/Trent_University).  
 
 
@@ -29,12 +29,12 @@ Currently, Trent University has a master's program in Computer Science under the
 
 Our Computer Science department recruits master's students under the **Applied Modelling and Quantitative Methods** program. If you apply to this program, you would like to be a master's student in Computer Sciences. The detailed qualification for **Applied Modelling and Quantitative Methods** is [here](https://www.trentu.ca/graduatestudies/sites/trentu.ca.graduatestudies/files/documents/Programs%20at%20a%20Glance%20from%20TrentU_GradStudies_Viewbook2023_Digital%5B65%5D.pdf). If your first language is not English or you do not have study experience at English countries, you should have **IELTS** (International English language Testing Services) and the minimum acceptance score is **6.5** with no band below **6.0**. The detailed proof of English Language is [here](https://www.trentu.ca/graduatestudies/how-apply/international-applicants).
 
-<span style="color:red; font-size:20px;">Good News!</span>  Currently, more and more master's students joining our Master's program. We are planning to set up our own independent Computer Science Master's program, which is not under AMOD. This program will include course-based and thesis-based, like other Canadian Universities. The process may cost half to one year.
+<span style="color:red; font-size:20px;">Good News!</span>  Currently, more and more master's students are joining our Master's program. We are planning to set up our own independent Computer Science Master's program, which is not under AMOD. This program will include course-based and thesis-based, like other Canadian Universities. The process may cost half to one year.
 
 ---
 
 # Research Projects
-My research interest lies broadly in graphs. Graphs are important data structures that have many applications, such as social networks, weblink networks, and biological networks. Specifically, I study many kinds of graph algorithms in parallel and distributed computing. My Ph.D. studies focus on parallel algorithms of k-core decomposition and maintenance on shared memory multi-core machines. My recent research focuses on parallel or distributed algorithms in terms of graph queries and graph mining. The below two pictures show an example of social networks.  
+My research interest lies broadly in graphs. Graphs are important data structures that have many applications, such as social networks, weblink networks, and biological networks. Specifically, I study many kinds of graph algorithms in parallel and distributed computing. My Ph.D. studies focus on parallel algorithms of k-core decomposition and maintenance on shared memory multi-core machines. My recent research focuses on parallel or distributed algorithms in terms of graph queries and graph mining. The two pictures below show an example of social networks.  
 
 <!--
 <img align="center" width="400" src="assets/social-network.jpg">
@@ -199,7 +199,7 @@ Here is my thesis and selected important publication.
   
 - Guo, Bin, and Emil Sekerinski. "Efficient parallel graph trimming by arc-consistency." The Journal of Supercomputing 78.13 (2022): 15269-15313. [springer](https://link.springer.com/article/10.1007/s11227-022-04457-9), [pdf](publication/SC/Efficient.pdf)
   
-- Chen, Yangjun; Guo, Bin; Huang, Xingyue; 	δ-Transitive closures and triangle consistency checking: a new way to evaluate graph pattern queries in large graph databases	The Journal of Supercomputing	76		8140-8174	2020	Springer US, [pdf](publication/SC/Transitive.pdf)
+- Chen, Yangjun; Guo, Bin; Huang, Xingyue; 	"δ-Transitive closures and triangle consistency checking: a new way to evaluate graph pattern queries in large graph databases"	The Journal of Supercomputing, 76, 8140-8174, 2020	Springer US, [pdf](publication/SC/Transitive.pdf)
 
 ## 4) Thesis 
 - MULTI-CORE PARALLEL GRAPH ALGORITHMS. Bin Guo. PhD Thesis. 2023. [Thesis pdf](https://macsphere.mcmaster.ca/bitstream/11375/28562/2/Guo_Bin_2023May_PhD.pdf), [Defense Slides ppt](publication/thesis/Defense-2.pptx), [Defense slides pdf](publication/thesis/Defense-2.pdf)
