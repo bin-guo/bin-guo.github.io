@@ -170,8 +170,9 @@ Master Student:
 # Teaching 
 
 At Trent University: 
-- COIS-3320H: Fundamentals of Operating Systems \[Winter 2024\]
-- COIS-4370H: Computer and Information Security \[Winter 2024\]
+- COIS-3400H: Database Management Systems \[Fall 2024\]
+- COIS-3320H: Fundamentals of Operating Systems \[Winter 2024, Winter 2025\]
+- COIS-4370H: Computer and Information Security \[Winter 2024, Winter 2025\]
   
 At McMaster University:
 - COMPSCI 1MD3: Introduction to Programming \[Spring 2023\] 
