@@ -6,6 +6,8 @@ My research area mainly focused on parallel and distributed computing, especiall
 
 I work at the Peterborough campus of Trent University in person; my Email address is [binguo\[at\]trentu.ca](mailto:binguo@trentu.ca) and my name on the department website is [here](https://www.trentu.ca/cois/faculty-research). As an adjunct assistant professor at McMaster University, my Email address is [guob15\[at\]mcmaster.ca](mailto:guob15@mcmaster.ca) and my name on the department website is [here](https://www.eng.mcmaster.ca/cas/people/adjuncts-and-associates/).
 
+You can see my [LinkedIn](https://www.linkedin.com/in/binguo15/) for my detailed experience. 
+
 <!-- currently, I am busy with my baby. I want to keep my group as 5 students at the beginning.  
 -->
 <!--
@@ -184,6 +186,8 @@ At McMaster University:
 # Selected Publication
 My full publication list is on the [Google Scholar](https://scholar.google.com/citations?user=m3ONACQAAAAJ&hl=en). All papers have the arXiv version for reading. 
 Here is my thesis and selected important publication. 
+
+All the source code is upload to my [Github](https://github.com/Itisben) 
 
 All related presentations are uploaded to [Youtube](https://www.youtube.com/@guoben8357), including my students' reading course presentation and my conference presentation. I guess this is the best way to show my research work. 
 
