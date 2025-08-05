@@ -185,6 +185,8 @@ At McMaster University:
 My full publication list is on the [Google Scholar](https://scholar.google.com/citations?user=m3ONACQAAAAJ&hl=en). All papers have the arXiv version for reading. 
 Here is my thesis and selected important publication. 
 
+All related presentations are uploaded to [Youtube](https://www.youtube.com/@guoben8357), including my students' reading course presentation and my conference presentation. I guess this is the best way to show my research work. 
+
 ## 1) Preprint
 
 
