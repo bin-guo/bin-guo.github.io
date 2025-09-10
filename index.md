@@ -14,6 +14,8 @@ I am hosting multiple interns at Trent University for 12 weeks (May–October 20
 📌 Check program details, eligibility, and participating countries here:
  [https://lnkd.in/ertsch6T](https://lnkd.in/ertsch6T)
 
+ A reminder that submissions to the Mitacs Globalink Research Internship are <span style="color:red; font-size:20px;">due by September 17th at 1:00 pm PT.</span>
+
 Please share with senior undergraduate students who may be interested. List of eligible counties can be found here: [https://lnkd.in/ekxKGkAF](https://lnkd.in/ekxKGkAF).
 
 # About Me
