@@ -174,9 +174,7 @@ Undergraduate Summer Student:
 
 Thesis-based Master's Student: 
 * Sourav Das, Sept. 2025 - Now
-     – Principle Supervised
-     – Research Area: Persistent Memory-Based Algorithms on k-Core Maintenance
-    – International Student
+    – Research Area: Persistent Memory-Based Algorithms on k-Core Maintenance
     – Received Graduate Teaching Assistantship, Graduate Research Fellow (about $16,400 for each year, two years in total) at Trent University
 
 * Gregory Prouty, will start in Sept. 2025
@@ -185,7 +183,7 @@ Thesis-based Master's Student:
 
 * Michael Abiona, May 2025 - Now
     - Research Area: Parallel graph algorithms on $k$-truss maintenance
-    - Received Graduate Teaching Assistantship, Graduate Research Fellow, and International International Graduate Scholarship (about $31,348 for each year, two years in total) at Trent University
+    - Received Graduate Teaching Assistantship, Graduate Research Fellow, and International Student Graduate Scholarship (about $31,348 for each year, two years in total) at Trent University
   
 * Syed Zarif, Jan. 2025 - Now
     - Research Area: Concurrent data structures in parallel computing
