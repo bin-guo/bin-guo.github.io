@@ -122,7 +122,7 @@ Here is the [School of Graduate Studies](https://www.trentu.ca/graduatestudies/)
 Here is the [School of Graduate Studies](https://www.trentu.ca/graduatestudies/) and you can apply for [Computer Science MSc](https://www.trentu.ca/futurestudents/program/computer-science-msc)
 
 ### Thesis-based MSc program Funding and Tuition Fee
-For the coming years, I am sure that our AMOD program will provide a fixed amount of funding for thesis-based master's students as the following table. 
+For the coming years, I am sure that our thesis-based Computer Science MSc will provide a fixed amount of funding for thesis-based master's students as the following table. 
 
 |Source of Funding | Year 1 (2025-2026)| Year 2 (2026-2027)|
 |---	|---	|---	|
