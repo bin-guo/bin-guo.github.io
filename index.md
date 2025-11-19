@@ -138,17 +138,17 @@ For domestic students (including those who have PR), the [tuition fee](https://w
 If you are interested, please send me your CV and a proposal to my [email](mailto:binguo@trentu.ca). I am happy to be your supervisor. 
 
 ## 2) Master's Student at McMaster University
-Since I am an adjunct member at McMaster University, I am also seeking Master's students at McMaster University. There are two steam: MEng and MSc
+Since I am an adjunct member at McMaster University, I am also seeking Master's students at McMaster University. There are two streams: MEng and MSc
 
-For the [MEng](https://www.eng.mcmaster.ca/cas/degree-options/computing-and-software-meng/) program, you will study at McMaster and I can be your co-supervisor. __You may not get the funding.__ Students must successfully complete six half (one-term) graduate courses and an independent project demonstrating the ability to carry out independent studies and reach a satisfactory conclusion in an area of Computing and Software.
+For the [MEng](https://www.eng.mcmaster.ca/cas/degree-options/computing-and-software-meng/) program, you will study at McMaster, and I can be your co-supervisor. __You may not get the funding.__ Students must successfully complete six half (one-term) graduate courses and an independent project demonstrating the ability to carry out independent studies and reach a satisfactory conclusion in an area of Computing and Software.
 
-Also, for the [MSc](https://www.eng.mcmaster.ca/cas/degree-options/computer-science-msc/) program, you will study at McMaster and I can be your co-supervisor. __You are possible to get the funding and we can discuss the details if you are interested.__ Student must successfully complete four half (two-term) graduate courses and a high-quality independent master's thesis. 
+Also, for the [MSc](https://www.eng.mcmaster.ca/cas/degree-options/computer-science-msc/) program, you will study at McMaste,r and I can be your co-supervisor. __You are possible to get the funding and we can discuss the details if you are interested.__ Student must successfully complete four half (two-term) graduate courses and a high-quality independent master's thesis. 
 
 If you are interested, please send me your CV and a proposal to my [email](mailto:binguo@trentu.ca). I am happy to be your co-supervisor. 
 
 ## 3) PhD Students at McMaster University
 
-I am also recruiting PhD students. Since I am an adjunct member at McMaster University and Trent does not have a Computer Science PhD program, I can collaborate with the [Computing and Sofware Department at McMaster University](https://www.eng.mcmaster.ca/cas/programs/degree-options/phd-computer-science/) as a cosupervisor. That means you are McMaster's PhD students; you have a supervisor at McMaster and me as a cosupervisor. 
+I am also recruiting PhD students. Since I am an adjunct member at McMaster University and Trent does not have a Computer Science PhD program, I can collaborate with the [Computing and Software Department at McMaster University](https://www.eng.mcmaster.ca/cas/programs/degree-options/phd-computer-science/) as a cosupervisor. That means you are McMaster's PhD students; you have a supervisor at McMaster, and me as a cosupervisor. 
 
 
 At McMaster University, the Computing and Software department will provide many funding or scholarship opportunities; I can also provide part of the funding to support you. The funding will be enough to pay for tuition fees and basic living expenses (the international students will get the same support). 
@@ -177,7 +177,7 @@ Thesis-based Master's Student:
     – Research Area: Persistent Memory-Based Algorithms on k-Core Maintenance
     – Received Graduate Teaching Assistantship, Graduate Research Fellow (about $16,400 for each year, two years in total) at Trent University
 
-* Gregory Prouty, will start in Sept. 2025
+* Gregory Prouty, Sept. 2025 - Now
     - Research Area: $k$-Core Hierarchy Maintenance 
     - Received Graduate Teaching Assistantship, Graduate Research Fellow (about $16,400 for each year, two years in total) at Trent University
 
@@ -198,7 +198,7 @@ Undergraduate Summer Student:
 * Issec Lee, summer student at Trent, 2024, Experimental Evaluation of Multi-CAS in Concurrency.
   
 Master Student: 
-* R.Z. Zhao, MEng at McMaster University (Cosupervise with Dr. Emil Sekerinski), 2023 - now,  Experimental Evaluation of Distributed Core Decomposition.
+* R.Z. Zhao, MEng at McMaster University (Co-supervised with Dr. Emil Sekerinski), 2023 - 2024,  Experimental Evaluation of Distributed Core Decomposition.
 
 
 ---
@@ -218,8 +218,8 @@ At McMaster University:
 ---
 
 # Selected Publication
-My full publication list is on the [Google Scholar](https://scholar.google.com/citations?user=m3ONACQAAAAJ&hl=en). All papers have the arXiv version for reading. 
-Here is my thesis and selected important publication. 
+My full publication list is on [Google Scholar](https://scholar.google.com/citations?user=m3ONACQAAAAJ&hl=en). All papers have the arXiv version for reading. 
+Here is my thesis and a selection of important publications. 
 
 All the source code is upload to my [Github](https://github.com/Itisben) 
 
