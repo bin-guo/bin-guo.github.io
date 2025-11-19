@@ -50,11 +50,18 @@ See [Wiki](https://en.wikipedia.org/wiki/Trent_University).
 
 
 ## 1) Computer Science Master's Program
+<!--
 Currently, Trent University has a master's program in Computer Science under the [Applied Modelling and Quantitative Methods](https://www.trentu.ca/amod/). This is an interdisciplinary program that leads towards an M.Sc. or M.A. degree in the application of techniques and theory of modelling in the natural sciences and social sciences. It encompasses the following traditional disciplines: Biology, Business Administration, Chemistry, **Computer Science**, Economics, Geography, Humanities, Mathematics, Philosophy, Physics & Astronomy, and Psychology. The program is designed to overcome some of the barriers to interdisciplinary collaboration by bringing together, at the graduate level, students who are actively applying modelling techniques in their thesis research in a broad range of disciplines. The research is in the social and natural sciences, and in fields in which Trent has demonstrated strong research performance. Although it is oriented towards quantitative models, utilizing computational, mathematical, or statistical techniques, it is discipline-based and is not a program in applied mathematics. 
 
 Our Computer Science department recruits master's students under the **Applied Modelling and Quantitative Methods** program. If you apply to this program, you would like to be a master's student in Computer Science. The detailed qualification for **Applied Modelling and Quantitative Methods** is [here](https://www.trentu.ca/graduatestudies/sites/trentu.ca.graduatestudies/files/documents/Programs%20at%20a%20Glance%20from%20TrentU_GradStudies_Viewbook2023_Digital%5B65%5D.pdf). If your first language is not English or you do not have study experience at English countries, you should have **IELTS** (International English Language Testing Services) and the minimum acceptance score is **6.5** with no band below **6.0**. The detailed proof of English Language is [here](https://www.trentu.ca/graduatestudies/how-apply/international-applicants).
 
 <span style="color:red; font-size:20px;">Good News!</span>  Currently, more and more master's students are joining our Master's program. We are establishing our own independent [Computer Science M.Sc.](https://www.trentu.ca/graduatestudies/program/computer-science-msc) program, which is not under the auspices of AMOD. We expect our new program can accept students from Sep. 2026.
+-->
+Our Computer Science department has already built [Computer Science M.Sc.](https://www.trentu.ca/futurestudents/program/computer-science-msc) program, which is a two-year and thesis-based Master's program at Trent’s Peterborough campus. If your first language is not English or you do not have study experience in English countries, you should have **IELTS** (International English Language Testing Services) and the minimum acceptance score is **6.5** with no band below **6.0**. The detailed proof of English Language is [here](https://www.trentu.ca/graduatestudies/how-apply/international-applicants).
+
+
+
+Our Computer Science department does not have a course-based Master's program in Computer Science. However, Trent University has the [Applied Modelling and Quantitative Methods](https://www.trentu.ca/amod/) program. This is an interdisciplinary program that leads towards an M.Sc. or M.A. degree in the application of techniques and theory of modelling in the natural sciences and social sciences. AMOD provides three course-based programs, like The Big Data Analytics, and one thesis-based program. 
 
 ---
 
@@ -101,15 +108,18 @@ Our research on graph algorithms can be extended to privacy and security. The pr
 # Recruit Students
 
 ## 1) Master's Students at Trent University
-If you want to apply course-based programs like Big Data, you can directly apply without a supervisor. 
+If you want to apply for course-based programs like Big Data, you can directly apply without a supervisor. 
 
-I am seeking highly motivated and dedicated Master's students (thesis-based computer science stream) starting from Winter 2024. Before connecting with me, you must satisfy the basic requirement of our department, e.g, minimum GPA 77% in last 10 credits and IELTS 6.5 with no band below 6.0. 
+I am seeking highly motivated and dedicated Master's students (thesis-based computer science stream) starting from Winter 2024. Before connecting with me, you must satisfy the basic requirement of our department, a minimum GPA of 77% in the last 2 years or the last 10 credits; international students must have IELTS 6.5 with no band below 6.0. 
 
-Prospective candidates should have a background in __data structure and algorithms__ (especially on graphs), __parallel computing__, and C/C++ programming experience. __If you do not have such a background or your major is not computer science, it does not matter__; we still can talk and make a good research plan. During your master's studies, you will do experiments (mostly C++ programming) and finish a thesis. You will have the opportunity to work closely with me and collaborate with our team members.
+Prospective candidates should have a background in __data structure and algorithms__ (especially on graphs), __parallel computing__, and C/C++ programming experience. __If you do not have such a background or your major is not computer science but already worked in the IT area for many years, it does not matter__; we still can talk and make a good research plan. During your master's studies, you will do experiments (mostly C++ programming) and finish a thesis. You will have the opportunity to work closely with me and collaborate with our team members.
 
+<!--
 Here is the [School of Graduate Studies](https://www.trentu.ca/graduatestudies/) and you can apply for [Applied Modelling and Quantitative Methods](https://www.trentu.ca/graduatestudies/sites/trentu.ca.graduatestudies/files/documents/Programs%20at%20a%20Glance%20from%20TrentU_GradStudies_Viewbook2023_Digital%5B65%5D.pdf), as our master's program of Computer Science is under such program (see my front introduction to Trent University). If you are interested in **thesis-based**, you must find a supervisor to finish a research thesis and I am happy to be your supervisor; please send me an email including your CV, transcripts, and what kinds of research you would like to do. If you are interested in **course-based**, you must finish courses and do a project and you can directly apply. 
+-->
+Here is the [School of Graduate Studies](https://www.trentu.ca/graduatestudies/) and you can apply for [Computer Science MSc](https://www.trentu.ca/futurestudents/program/computer-science-msc)
 
-### Thesis-based AMOD program Funding and Tuition Fee
+### Thesis-based MSc program Funding and Tuition Fee
 For the coming years, I am sure that our AMOD program will provide a fixed amount of funding for thesis-based master's students as the following table. 
 
 |Source of Funding | Year 1 (2025-2026)| Year 2 (2026-2027)|
@@ -123,7 +133,7 @@ For the coming years, I am sure that our AMOD program will provide a fixed amoun
 
 The [tuition fee](https://www.trentu.ca/graduatestudies/financial-matters/student-account-and-tuition/research-and-thesis-based-program-fees) for international students is very high, around $24,806 per academic year. I am actively applying for funding; if I obtain the funding, I could provide $5,000 to $10,000 per academic year. Such funding can provide you with lots of financial support. 
 
-For domestic students (including those who have PR), the [tuition fee](https://www.trentu.ca/graduatestudies/financial-matters/student-account-and-tuition/research-and-thesis-based-program-fees) is $9,196 (Ontario) or $10,569 (Other Canadia) per academic year. Also, domestic students can apply to the [OSAP](https://www.ontario.ca/page/osap-ontario-student-assistance-program) (grants and loans, mostly no interest); the amount can be higher if you have lower income and funding, which can cover basic living fee.  
+For domestic students (including those who have PR), the [tuition fee](https://www.trentu.ca/graduatestudies/financial-matters/student-account-and-tuition/research-and-thesis-based-program-fees) is $9,196 (Ontario) or $10,569 (Other Canadian) per academic year. Also, domestic students can apply to the [OSAP](https://www.ontario.ca/page/osap-ontario-student-assistance-program) (grants and loans, mostly no interest); the amount can be higher if you have a lower income and funding, which can cover basic living fees.  
 
 If you are interested, please send me your CV and a proposal to my [email](mailto:binguo@trentu.ca). I am happy to be your supervisor. 
 
@@ -163,6 +173,12 @@ Undergraduate Summer Student:
     - Current Status: Third-year undergraduate student at Trent University
 
 Thesis-based Master's Student: 
+* Sourav Das, Sept. 2025 - Now
+     – Principle Supervised
+     – Research Area: Persistent Memory-Based Algorithms on k-Core Maintenance
+    – International Student
+    – Received Graduate Teaching Assistantship, Graduate Research Fellow (about $16,400 for each year, two years in total) at Trent University
+
 * Gregory Prouty, will start in Sept. 2025
     - Research Area: $k$-Core Hierarchy Maintenance 
     - Received Graduate Teaching Assistantship, Graduate Research Fellow (about $16,400 for each year, two years in total) at Trent University
