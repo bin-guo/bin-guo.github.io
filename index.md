@@ -234,6 +234,7 @@ All related presentations are uploaded to [Youtube](https://www.youtube.com/@guo
 
 ## 2) Conference
 - Guo, Bin; Sekerinski, Emil. "New Parallel Order Maintenance Data Structure" PCDS(2024). [Presentation pdf](publication/PCDS2024/PCDS-BinGuo.pdf), [Presentation ppt](publication/PCDS2024/PCDS-BinGuo.pptx), [PCDS paper](publication/PCDS2024/PCDS-BinGuo.pdf), [full paper](https://arxiv.org/pdf/2208.07800)
+  
   - Useful links: [A Lock-Free, Parallel Order Maintenance Data Structure for Multicore Systems](https://linnk.ai/insight/algorithms-and-data-structures/a-lock-free-parallel-order-maintenance-data-structure-for-multicore-systems-OoKVQTjU/)
 
 - Guo, Bin, and Emil Sekerinski. "Parallel order-based core maintenance in dynamic graphs." ICPP (2023). [arXiv pdf](https://arxiv.org/pdf/2210.14290.pdf), [Presentation ppt](publication/icpp2023/icpp23-2.pptx), [Presentation pdf](publication/icpp2023/icpp23-2.pdf), [Poster pdf](publication/icpp2023/icpp23-poster.pdf), [Full Paper](publication/icpp2023/paralle-om-full-paper.pdf), [ICPP paper](publication/icpp2023/parallel-om-icpp.pdf).
@@ -243,9 +244,10 @@ All related presentations are uploaded to [Youtube](https://www.youtube.com/@guo
 
 
 ## 3) Journal
-
+- Guo, Bin; Sekerinski, Emil. "New Concurrent Order Maintenance Data Structure" JPDC(2026). [full paper](publication/JPDC/order-maint.pdf)
+  
 - Guo, Bin; Sekerinski, Emil; Chu, Lingyuang. "Federated k-Core Decomposition: A Secure Distributed Approach". Journal of Social Network Analysis and Mining (SNAM). [Full paper](https://arxiv.org/pdf/2410.02544), [Poster on CASCON 24](publication/CASCON/cascon24-poster.pdf)
-- 
+  
 - Guo, Bin; Sekerinski, Emil; 	"Simplified Algorithms for Order-Based Core Maintenance" The Journal of Supercomputing (2024) [springer](https://link.springer.com/article/10.1007/s11227-024-06190-x?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240528&utm_content=10.1007/s11227-024-06190-x), [pdf](publication/SC/Simplified.pdf)
   
 - Guo, Bin, and Emil Sekerinski. "Efficient parallel graph trimming by arc-consistency." The Journal of Supercomputing 78.13 (2022): 15269-15313. [springer](https://link.springer.com/article/10.1007/s11227-022-04457-9), [pdf](publication/SC/Efficient.pdf)
