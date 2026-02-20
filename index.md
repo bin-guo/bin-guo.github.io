@@ -19,6 +19,11 @@ I am hosting multiple interns at Trent University for 12 weeks (May–October 20
 Please share with senior undergraduate students who may be interested. List of eligible counties can be found here: [https://lnkd.in/ekxKGkAF](https://lnkd.in/ekxKGkAF).
 -->
 
+My paper has been published in the top journal, "Journal of Parallel and Distributed Computing" (JPDC). This international journal is directed to researchers, engineers, educators, managers, programmers, and users of computers who have particular interests in parallel processing and/or distributed computing.
+
+- Guo, Bin; Sekerinski, Emil. "New Concurrent Order Maintenance Data Structure" JPDC(2026). [full paper](publication/JPDC/order-maint.pdf)
+  
+
 
 # About Me
 I am an assistant professor at the Computer Science Department of [Trent University](https://www.trentu.ca/cois/) starting in Jan. 2024. Also, I am an adjunct assistant professor at the Computing & Software Department of [McMaster University](https://www.eng.mcmaster.ca/cas/). Before that, I was a postdoctoral fellow at [McMaster University](https://dailynews.mcmaster.ca/) from May 2023 to Dec. 2023. I obtained my Ph.D. degree in Computer Science from [McMaster University](https://dailynews.mcmaster.ca/) in May 2023. I obtained my Master's degree in Applied Computer Science from [Winnipeg University](https://www.uwinnipeg.ca/) in May 2018. 
