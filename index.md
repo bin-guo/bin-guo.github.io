@@ -1,4 +1,4 @@
-# <span style="color:red>Important News</span>
+<span style="color:red># Important News</span>
 <!--
 ## 1)📢 Fully Funded Research Internships in Canada 🇨🇦 for International Students!
 
