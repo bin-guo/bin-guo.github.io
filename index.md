@@ -1,4 +1,4 @@
-<span style="color:red># Important News</span>
+# Important News
 <!--
 ## 1)📢 Fully Funded Research Internships in Canada 🇨🇦 for International Students!
 
@@ -18,11 +18,29 @@ I am hosting multiple interns at Trent University for 12 weeks (May–October 20
 
 Please share with senior undergraduate students who may be interested. List of eligible counties can be found here: [https://lnkd.in/ekxKGkAF](https://lnkd.in/ekxKGkAF).
 -->
-
+## Published Paper on JPDC
 My paper has been published in the top journal, "Journal of Parallel and Distributed Computing" (JPDC). This international journal is directed to researchers, engineers, educators, managers, programmers, and users of computers who have particular interests in parallel processing and/or distributed computing.
 
 - Guo, Bin; Sekerinski, Emil. "New Concurrent Order Maintenance Data Structure" JPDC(2026). [full paper](publication/JPDC/order-maint.pdf)
   
+
+## Invited Talk
+Welcome VastData come to Trent and give a Talk on March 5h, 2026! Here is the [video link](https://www.youtube.com/watch?v=8btJOZnmwIg&list=PL3dVXnBbs0CoowlbwqegkcxS6ENdERJdC). 
+
+Speakers: Vlad Zdornov and Moshe Gabel
+
+Title: The VAST Data Exascale AI Platform 
+
+Abstract:
+The VAST Data Platform (AI OS) is a unified platform for streaming, storing, querying, processing, enriching and indexing all types of structured and unstructured data. It is built on a novel disaggregated architecture (DASE), allowing it to scale to exabytes of capacity while maintaining exceptional performance, reliability and ease of operation. The VAST Data Platform comprises a multi-protocol all-Flash storage solution (VAST DataStore), a transactional, analytical and vector database coupled with an event streaming broker (VAST DataBase) and a pipeline orchestration infrastructure (VAST DataEngine).  VAST AI OS now powers some of the world's most demanding workloads: AI training, financial forecasting, high performance scientific computing (including the Nibi / SHARCNET cluster at UWaterloo), academic research, and more.
+
+In the first part of this talk we will present the DASE architecture and the different platform components, and how they work together to address the needs of modern organizations and workloads. The second part of the talk will focus on the design and challenges of building the VAST DataBase: an LSM-based database with multi-version concurrency control that supports both analytical as well as vector workloads. Optimized for multi-PB sized tables with trillions of rows and vectors, the VAST DataBase provides high-performance during inserts, query and delete operations – with guaranteed transactional consistency, durability, isolation and availability. We will discuss some of the unique challenges caused by VAST Database's scale and unique DASE distributed architecture, which renders many common approaches infeasible. 
+
+About the company:
+VAST Data was founded in 2016 and is one of the fastest growing infrastructure companies in history. VAST Data is enabling the AI revolution with industry giants like CoreWeave and xAI being among its customers. The company has more than 1200 employees globally and a growing R&D center in the Toronto area. The Toronto branch operates as a startup-like organization developing the core of the database product and is engaged in the related research activities.
+    
+About the speakers:
+Vlad Zdornov has been with VAST Data since 2017, serving in different roles as an early-stage startup developer, architect and VP R&D. He holds a M.Sc. degree in Computer Engineering. Currently, Vlad is leading the VAST Data R&D center in Toronto. Dr. Moshe Gabel joined VAST Data from academia in 2025 as a senior software engineer. Before that, he was a professor of computer science at the University of Toronto and at York University.
 
 
 # About Me
