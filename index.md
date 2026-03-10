@@ -18,6 +18,7 @@ I am hosting multiple interns at Trent University for 12 weeks (May–October 20
 
 Please share with senior undergraduate students who may be interested. List of eligible counties can be found here: [https://lnkd.in/ekxKGkAF](https://lnkd.in/ekxKGkAF).
 -->
+
 ## Published Paper on JPDC
 My paper has been published in the top journal, "Journal of Parallel and Distributed Computing" (JPDC). This international journal is directed to researchers, engineers, educators, managers, programmers, and users of computers who have particular interests in parallel processing and/or distributed computing.
 
