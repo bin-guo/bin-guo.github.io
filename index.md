@@ -22,10 +22,9 @@ Please share with senior undergraduate students who may be interested. List of e
 
 My paper has been published in the top journal, "Journal of Parallel and Distributed Computing" (JPDC). This international journal is directed to researchers, engineers, educators, managers, programmers, and users of computers who have particular interests in parallel processing and/or distributed computing.
 
-- Guo, Bin; Sekerinski, Emil. "New Concurrent Order Maintenance Data Structure" JPDC(2026). [full paper](publication/JPDC/order-maint.pdf)
+- Guo, Bin; Sekerinski, Emil. "Parallel order-based core maintenance in dynamic graphs" JPDC(2026) Open Access. [full paper](https://doi.org/10.1016/j.jpdc.2026.105335)
+- Guo, Bin; Sekerinski, Emil. "New Concurrent Order Maintenance Data Structure" JPDC(2026) Open Access. [full paper](publication/JPDC/order-maint.pdf)
   
-
----
 
 Welcome VastData come to Trent and give a Talk on March 5h, 2026! Here is the [video link](https://www.youtube.com/watch?v=8btJOZnmwIg&list=PL3dVXnBbs0CoowlbwqegkcxS6ENdERJdC). 
 
