@@ -8,7 +8,7 @@ Faculty Supervisor: Dr. Bin Guo (Trent University, Peterborough, Ontario)
 
  📅 Application Deadline: September 16, 2026, at 1:00 PM PT
 
-Are you an international undergraduate student looking to conduct cutting-edge computer science research in Canada? I am seeking motivated, research-driven students for three fully funded 12-week summer internships through the Mitacs Globalink program.
+Are you an international undergraduate student looking to conduct cutting-edge computer science research in Canada? I am seeking motivated, research-driven students for three fully funded 12-week summer internships through the Mitacs Globalink program. This program provides full financial coverage (all expenses paid), including round-trip international airfare, accommodation allowance, daily living and meal stipends, health insurance, and administrative fees.
 
 **Founded Research Projects:**
 1. Generalized k-core in Complex Graphs (Project ID: 52752)
@@ -36,7 +36,7 @@ Mitacs Globalink 暑期科研实习项目（GRI）现已开启！ – 2027年夏
 
 📅 **申请截止时间：** 2026年9月16日 下午1:00（太平洋时间）
 
-你是否是一名正在寻找前往加拿大参与前沿计算机科学研究机会的国际本科生？我正在招募充满科研热情、学术背景扎实的优秀学生，通过 Mitacs Globalink 项目参加为期 12 周的全额资助暑期科研实习。
+你是否是一名正在寻找前往加拿大参与前沿计算机科学研究机会的国际本科生？我正在招募充满科研热情、学术背景扎实的优秀学生，通过 Mitacs Globalink 项目参加为期 12 周的全额资助暑期科研实习。该项目提供全额资金资助（费用全包），涵盖往返国际机票、住宿补贴、生活与餐饮津贴、医疗保险及注册费用。
 
 **资助研究项目：**
 1. **复杂图结构中的广义 $k$-Core 分析（项目 ID：52752）**
