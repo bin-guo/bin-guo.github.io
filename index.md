@@ -25,7 +25,33 @@ Are you an international undergraduate student looking to conduct cutting-edge c
 2. Search for the Project IDs (**52752**, **52753**, or **53049**) or filter by **Bin Guo** at **Trent University**.
 3. Add the project(s) to your application and submit before **September 16, 2026, at 1:00 PM PT**.
 
+---
+# 重磅消息！！！
 
+**📢 加拿大面向国际学生的全额资助科研实习项目现已开放申请！🇨🇦**
+
+Mitacs Globalink 暑期科研实习项目（GRI）现已开启！ – 2027年夏季
+
+**导师：** Bin Guo 教授（加拿大特伦特大学 Trent University，安大略省彼得伯勒）
+
+📅 **申请截止时间：** 2026年9月16日 下午1:00（太平洋时间）
+
+你是否是一名正在寻找前往加拿大参与前沿计算机科学研究机会的国际本科生？我正在招募充满科研热情、学术背景扎实的优秀学生，通过 Mitacs Globalink 项目参加为期 12 周的全额资助暑期科研实习。
+
+**资助研究项目：**
+1. **复杂图结构中的广义 $k$-Core 分析（项目 ID：52752）**
+   * **研究重点：** 将 $k$-core 分解拓展至复杂图、动态图、动态更新图、权重图及多关系图。
+2. **基于大语言模型的图算法设计与实现（项目 ID：52753）**
+   * **研究重点：** 探索大语言模型（LLM）如何自动化与加速复杂图算法的设计、多核系统上的性能优化以及代码正确性推理。
+3. **并发数据结构：B+树（项目 ID：53049）**
+   * **研究重点：** 针对现代多核共享内存架构，设计并评估基于多比较并交换（MCAS）同步机制的并发 B+树。
+
+**申请方式**
+
+1. 登录 [Mitacs Globalink 申请门户](https://globalink.mitacs.ca/#/student/application/projects)。
+2. 通过项目 ID（**52752**、**52753** 或 **53049**）或搜索 **Trent University** 的 **Bin Guo** 查找课题。
+3. 将项目添加至你的申请列表中，并在 **2026年9月16日 下午1:00（太平洋时间）** 前提交。
+4. 
 ---
 
 My paper has been published in the top journal, "Journal of Parallel and Distributed Computing" (JPDC). This international journal is directed to researchers, engineers, educators, managers, programmers, and users of computers who have particular interests in parallel processing and/or distributed computing.
