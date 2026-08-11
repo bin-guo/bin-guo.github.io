@@ -50,7 +50,7 @@ Mitacs Globalink 暑期科研实习项目（GRI）现已开启！ – 2027年夏
 1. 登录 [Mitacs Globalink 申请门户](https://globalink.mitacs.ca/#/student/application/projects)。
 2. 通过项目 ID（**52752**、**52753** 或 **53049**）或搜索 **Trent University** 的 **Bin Guo** 查找课题。
 3. 将项目添加至你的申请列表中，并在 **2026年9月16日 下午1:00（太平洋时间）** 前提交。
-4. 
+   
 ---
 
 My paper has been published in the top journal, "Journal of Parallel and Distributed Computing" (JPDC). This international journal is directed to researchers, engineers, educators, managers, programmers, and users of computers who have particular interests in parallel processing and/or distributed computing.
