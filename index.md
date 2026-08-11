@@ -26,7 +26,6 @@ Are you an international undergraduate student looking to conduct cutting-edge c
 3. Add the project(s) to your application and submit before **September 16, 2026, at 1:00 PM PT**.
 
 ---
-# 重磅消息！！！
 
 **📢 加拿大面向国际学生的全额资助科研实习项目现已开放申请！🇨🇦**
 
