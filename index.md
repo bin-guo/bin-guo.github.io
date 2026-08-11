@@ -1,30 +1,39 @@
 # Important News!!!
-<!--
-## 1)📢 Fully Funded Research Internships in Canada 🇨🇦 for International Students!
 
-The Mitacs Globalink Research Internship (GRI) is now open!
- 📅 Deadline to Apply: September 17, 2025
+**📢 Fully Funded Research Internships in Canada 🇨🇦 for International Students!**
 
-I am hosting multiple interns at Trent University for 12 weeks (May–October 2026) on one research project on graphs:"Generalized k-core in Complex Graphs". 
+The Mitacs Globalink Research Internship (GRI) is now open! – Summer 2027
 
-🔎 Explore my projects here:
- [https://lnkd.in/eQ4tJHVS](https://lnkd.in/eQ4tJHVS)
- → Filter by Faculty First Name: “Bin” : )
+Faculty Supervisor: Dr. Bin Guo (Trent University, Peterborough, Ontario)
 
-📌 Check program details, eligibility, and participating countries here:
- [https://lnkd.in/ertsch6T](https://lnkd.in/ertsch6T)
+ 📅 Application Deadline: September 16, 2026, at 1:00 PM PT
 
- A reminder that submissions to the Mitacs Globalink Research Internship are <span style="color:red; font-size:20px;">due by September 17th at 1:00 pm PT.</span>
+Are you an international undergraduate student looking to conduct cutting-edge computer science research in Canada? I am seeking motivated, research-driven students for three fully funded 12-week summer internships through the Mitacs Globalink program.
 
-Please share with senior undergraduate students who may be interested. List of eligible counties can be found here: [https://lnkd.in/ekxKGkAF](https://lnkd.in/ekxKGkAF).
--->
+**Founded Research Projects:**
+1. Generalized k-core in Complex Graphs (Project ID: 52752)
+    * Focus: Extend $k$-core decomposition to complex, dynamic, dynamic-update, weighted, and multi-relational graphs.
+2. Graph Algorithm Design and Implementation with LLMs (Project ID: 52753)
+    * Focus: Explore how Large Language Models can automate and accelerate complex graph algorithm design, performance optimization on multicore systems, and code correctness reasoning.
+3. Concurrent Data Structure: B+-Tree (Project ID: 53049)
+    * Focus: Design and evaluate a Multi-Compare-and-Swap (MCAS) synchronization-based concurrent B+-tree for modern multicore shared-memory architectures.
 
+
+**How to Apply**
+
+1. Log into the [Mitacs Globalink Portal](https://globalink.mitacs.ca/#/student/application/projects).
+2. Search for the Project IDs (**52752**, **52753**, or **53049**) or filter by **Bin Guo** at **Trent University**.
+3. Add the project(s) to your application and submit before **September 16, 2026, at 1:00 PM PT**.
+
+
+---
 
 My paper has been published in the top journal, "Journal of Parallel and Distributed Computing" (JPDC). This international journal is directed to researchers, engineers, educators, managers, programmers, and users of computers who have particular interests in parallel processing and/or distributed computing.
 
 - Guo, Bin; Sekerinski, Emil. "Parallel order-based core maintenance in dynamic graphs" JPDC(2026) Open Access. [full paper](https://doi.org/10.1016/j.jpdc.2026.105335)
 - Guo, Bin; Sekerinski, Emil. "New Concurrent Order Maintenance Data Structure" JPDC(2026) Open Access. [full paper](publication/JPDC/order-maint.pdf)
   
+---
 
 Welcome VastData come to Trent and give a Talk on March 5h, 2026! Here is the [video link](https://www.youtube.com/watch?v=8btJOZnmwIg&list=PL3dVXnBbs0CoowlbwqegkcxS6ENdERJdC). 
 
