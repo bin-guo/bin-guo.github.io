@@ -112,6 +112,8 @@ Our Computer Science department has already built [Computer Science M.Sc.](https
 
 Our Computer Science department does not have a course-based Master's program in Computer Science. However, Trent University has the [Applied Modelling and Quantitative Methods](https://www.trentu.ca/amod/) program. This is an interdisciplinary program that leads towards an M.Sc. or M.A. degree in the application of techniques and theory of modelling in the natural sciences and social sciences. AMOD provides three course-based programs, like The Big Data Analytics, and one thesis-based program. 
 
+The student must finish four courses to get the Master's degree. You can see all course [here](https://calendar.trentu.ca/courses?career=Graduate&cq=COIS&page=1).
+
 ---
 
 # Research Projects
