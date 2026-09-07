@@ -106,13 +106,14 @@ Our Computer Science department recruits master's students under the **Applied M
 
 <span style="color:red; font-size:20px;">Good News!</span>  Currently, more and more master's students are joining our Master's program. We are establishing our own independent [Computer Science M.Sc.](https://www.trentu.ca/graduatestudies/program/computer-science-msc) program, which is not under the auspices of AMOD. We expect our new program can accept students from Sep. 2026.
 -->
-Our Computer Science department has already built [Computer Science M.Sc.](https://www.trentu.ca/futurestudents/program/computer-science-msc) program, which is a two-year and thesis-based Master's program at Trent’s Peterborough campus. If your first language is not English or you do not have study experience in English countries, you should have **IELTS** (International English Language Testing Services) and the minimum acceptance score is **6.5** with no band below **6.0**. The detailed proof of English Language is [here](https://www.trentu.ca/graduatestudies/how-apply/international-applicants).
-
+Our Computer Science department has already built [Computer Science M.Sc.](https://www.trentu.ca/futurestudents/program/computer-science-msc) program, which is a two-year and thesis-based Master's program at Trent’s Peterborough campus. 
+* If your first language is not English or you do not have study experience in English countries, you should have **IELTS** (International English Language Testing Services) and the minimum acceptance score is **6.5** with no band below **6.0**. The detailed proof of English Language is [here](https://www.trentu.ca/graduatestudies/how-apply/international-applicants).
+* The student must finish four courses to get the Master's degree. You can see all course [here](https://calendar.trentu.ca/courses?career=Graduate&cq=COIS&page=1).
 
 
 Our Computer Science department does not have a course-based Master's program in Computer Science. However, Trent University has the [Applied Modelling and Quantitative Methods](https://www.trentu.ca/amod/) program. This is an interdisciplinary program that leads towards an M.Sc. or M.A. degree in the application of techniques and theory of modelling in the natural sciences and social sciences. AMOD provides three course-based programs, like The Big Data Analytics, and one thesis-based program. 
 
-The student must finish four courses to get the Master's degree. You can see all course [here](https://calendar.trentu.ca/courses?career=Graduate&cq=COIS&page=1).
+
 
 ---
 
