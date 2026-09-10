@@ -223,12 +223,12 @@ After graduating, you can apply for a [nomination for permanent residence in Ont
 ## 1) Current Students
 
 Undergraduate Summer Student: 
-* Igor Jardim-Martins, May 2025 - Aug. 2025
-    - Research Area: Efficient data structure based on Persistent Memory
-    - Received NSERC USRA Summer Student Funding and Trent University Research Development Grant (about $11,000 for summer 2025) 
-    - Current Status: Third-year undergraduate student at Trent University
+
 
 Thesis-based Master's Student: 
+* Igor Jardim-Martins, Sep 2026 - Now
+    - Research Area: Efficient data structure based on Persistent Memory
+  
 * Sourav Das, Sept. 2025 - Now
     – Research Area: Persistent Memory-Based Algorithms on k-Core Maintenance
     – Received Graduate Teaching Assistantship, Graduate Research Fellow (about $16,400 for each year, two years in total) at Trent University
@@ -251,9 +251,14 @@ Thesis-based Master's Student:
 ## 2) Past Students
 
 Undergraduate Summer Student:
+* Igor Jardim-Martins, Sep 2024 - May 2026
+    - Research Area: Efficient data structure based on Persistent Memory
+    - Received NSERC USRA Summer Student Funding and Trent University Research Development Grant (about $11,000 for summer 2025) 
+    - Current Status: Master's student at Trent University
 * Issec Lee, summer student at Trent, 2024, Experimental Evaluation of Multi-CAS in Concurrency.
+    - Received NSERC USRA Summer Student Funding and Trent University Research Development Grant (about $11,000 for summer 2024) 
   
-Master Student: 
+Master's Student: 
 * R.Z. Zhao, MEng at McMaster University (Co-supervised with Dr. Emil Sekerinski), 2023 - 2024,  Experimental Evaluation of Distributed Core Decomposition.
 
 
@@ -262,6 +267,7 @@ Master Student:
 # Teaching 
 
 At Trent University: 
+- COIS-4050H: Advanced Algorithms \[Fall 2026\]
 - COIS-3400H: Database Management Systems \[Fall 2024\]
 - COIS-3320H: Fundamentals of Operating Systems \[Winter 2024, Winter 2025\]
 - COIS-4370H: Computer and Information Security \[Winter 2024, Winter 2025\]
