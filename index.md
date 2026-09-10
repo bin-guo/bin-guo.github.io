@@ -148,8 +148,8 @@ The traditional sequential graph algorithms need to be parallelized. Multi-core 
 * [Efficient parallel graph trimming by arc-consistency](https://link.springer.com/article/10.1007/s11227-022-04457-9). This paper has been published in the Journal of Supercomputing.
 
 ## 2) Concurrent Data Structures
-We study lock-free data structures, like the order maintenance (OM) data structure, that can maintain the order of a list concurrently. For details, you can read my selected papaers:
-*[New concurrent order maintenance data structure](10.1016/j.jpdc.2026.105238)
+We study lock-free data structures, like the order maintenance (OM) data structure, that can maintain the order of a list concurrently. For details, you can read my selected papers:
+*[New concurrent order maintenance data structure](https://www.sciencedirect.com/science/article/pii/S074373152600016X?via%3Dihub)
 
 ## 3) Distributed and Federated Graph Algorithms 
 Traditional distributed graph algorithms often rely on centralized servers for synchronization and rarely consider data privacy & security. We try to improve these distributed algorithms by using decentralized methods and protecting private information, so-called federated algorithms. Currently, I am working on the Federated Core Maintenance Problems. 
@@ -166,7 +166,7 @@ Our research on graph algorithms can be extended to privacy and security. The pr
 ## 1) Master's Students at Trent University
 If you want to apply for course-based programs like Big Data, you can directly apply without a supervisor. 
 
-I am seeking highly motivated and dedicated Master's students (thesis-based computer science stream) starting from Winter 2024. Before connecting with me, you must satisfy the basic requirement of our department, a minimum GPA of 77% in the last 2 years or the last 10 credits; international students must have IELTS 6.5 with no band below 6.0. 
+I am seeking highly motivated and dedicated Master's students (thesis-based computer science stream). Before connecting with me, you must satisfy the basic requirements of our department: a minimum GPA of 77% in the last 2 years or the last 10 credits; international students must have IELTS 6.5 with no band below 6.0. 
 
 Prospective candidates should have a background in __data structure and algorithms__ (especially on graphs), __parallel computing__, and C/C++ programming experience. __If you do not have such a background or your major is not computer science but already worked in the IT area for many years, it does not matter__; we still can talk and make a good research plan. During your master's studies, you will do experiments (mostly C++ programming) and finish a thesis. You will have the opportunity to work closely with me and collaborate with our team members.
 
@@ -204,7 +204,7 @@ If you are interested, please send me your CV and a proposal to my [email](mailt
 
 ## 3) PhD Students at McMaster University
 
-I am also recruiting PhD students. Since I am an adjunct member at McMaster University and Trent does not have a Computer Science PhD program, I can collaborate with the [Computing and Software Department at McMaster University](https://www.eng.mcmaster.ca/cas/programs/degree-options/phd-computer-science/) as a cosupervisor. That means you are McMaster's PhD students; you have a supervisor at McMaster, and me as a cosupervisor. 
+I am also recruiting PhD students. Since I am an adjunct member at McMaster University and Trent does not have a Computer Science PhD program, I can collaborate with the [Computing and Software Department at McMaster University](https://www.eng.mcmaster.ca/cas/programs/degree-options/phd-computer-science/) as a co-supervisor. That means you are a McMaster's PhD student; you have a supervisor at McMaster; and I am a co-supervisor. 
 
 
 At McMaster University, the Computing and Software department will provide many funding or scholarship opportunities; I can also provide part of the funding to support you. The funding will be enough to pay for tuition fees and basic living expenses (the international students will get the same support). 
