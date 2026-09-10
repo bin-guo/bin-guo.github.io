@@ -149,7 +149,7 @@ The traditional sequential graph algorithms need to be parallelized. Multi-core 
 
 ## 2) Concurrent Data Structures
 We study lock-free data structures, like the order maintenance (OM) data structure, that can maintain the order of a list concurrently. For details, you can read my selected papers:
-*[New concurrent order maintenance data structure](https://www.sciencedirect.com/science/article/pii/S074373152600016X?via%3Dihub)
+* [New concurrent order maintenance data structure](https://www.sciencedirect.com/science/article/pii/S074373152600016X?via%3Dihub)
 
 ## 3) Distributed and Federated Graph Algorithms 
 Traditional distributed graph algorithms often rely on centralized servers for synchronization and rarely consider data privacy & security. We try to improve these distributed algorithms by using decentralized methods and protecting private information, so-called federated algorithms. Currently, I am working on the Federated Core Maintenance Problems. 
