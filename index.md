@@ -106,19 +106,19 @@ Our Computer Science department recruits master's students under the **Applied M
 
 <span style="color:red; font-size:20px;">Good News!</span>  Currently, more and more master's students are joining our Master's program. We are establishing our own independent [Computer Science M.Sc.](https://www.trentu.ca/graduatestudies/program/computer-science-msc) program, which is not under the auspices of AMOD. We expect our new program can accept students from Sep. 2026.
 -->
-Our Computer Science department has already built [Computer Science M.Sc.](https://www.trentu.ca/futurestudents/program/computer-science-msc) program, which is a two-year and thesis-based Master's program at Trent’s Peterborough campus. 
-* If your first language is not English or you do not have study experience in English countries, you should have **IELTS** (International English Language Testing Services) and the minimum acceptance score is **6.5** with no band below **6.0**. The detailed proof of English Language is [here](https://www.trentu.ca/graduatestudies/how-apply/international-applicants).
-* The student must finish four courses to get the Master's degree. You can see all course [here](https://calendar.trentu.ca/courses?career=Graduate&cq=COIS&page=1).
+Our Computer Science department has already built [Computer Science M.Sc.](https://www.trentu.ca/futurestudents/program/computer-science-msc) program, which is a two-year thesis-based Master's program at Trent’s Peterborough campus. 
+* If your first language is not English or you do not have study experience in English-speaking countries, you should have **IELTS** (International English Language Testing Services) and the minimum acceptance score is **6.5** with no band below **6.0**. The detailed proof of English Language is [here](https://www.trentu.ca/graduatestudies/how-apply/international-applicants).
+* The student must finish four courses to get the Master's degree. You can see all courses [here](https://calendar.trentu.ca/courses?career=Graduate&cq=COIS&page=1). The graduation requirement is [here](https://calendar.trentu.ca/programs/eWKRDli94k9LfCMWfkzo/requirements-EbHxU).
 
 
-Our Computer Science department does not have a course-based Master's program in Computer Science. However, Trent University has the [Applied Modelling and Quantitative Methods](https://www.trentu.ca/amod/) program. This is an interdisciplinary program that leads towards an M.Sc. or M.A. degree in the application of techniques and theory of modelling in the natural sciences and social sciences. AMOD provides three course-based programs, like The Big Data Analytics, and one thesis-based program. 
+Our Computer Science department does not have a course-based Master's program in Computer Science. However, Trent University has the [Applied Modelling and Quantitative Methods](https://www.trentu.ca/amod/) program. This is an interdisciplinary program that leads towards an M.Sc. or M.A. degree in the application of techniques and theory of modeling in the natural sciences and social sciences. AMOD provides three course-based programs, such as Big Data Analytics, and one thesis-based program. 
 
 
 
 ---
 
 # Research Projects
-My research interest lies broadly in graphs. Graphs are important data structures that have many applications, such as social networks, web-link networks, and biological networks. Specifically, I study many kinds of graph algorithms in parallel and distributed computing. My Ph.D. studies focus on parallel algorithms for k-core decomposition and maintenance on shared memory multi-core machines. My recent research focuses on parallel and distributed algorithms in the area of graph queries and graph mining. The two pictures below show an example of social networks.  
+My research interest lies broadly in graphs. Graphs are important data structures that have many applications, such as social networks, web-link networks, and biological networks. Specifically, I study many kinds of graph algorithms in parallel and distributed computing. My Ph.D. studies focus on parallel algorithms for k-core decomposition and maintenance on shared-memory multi-core machines. My recent research focuses on parallel and distributed algorithms in the area of graph queries and graph mining. The two pictures below show an example of social networks.  
 
 <!--
 <img align="center" width="400" src="assets/social-network.jpg">
@@ -147,10 +147,14 @@ The traditional sequential graph algorithms need to be parallelized. Multi-core 
 * [Parallel Order-Based Core Maintenance in Dynamic Graphs](https://dl.acm.org/doi/abs/10.1145/3605573.3605597). This paper has been published at the top conference, the 52nd International Conference on Parallel Processing (ICPP 2023). It proposes a parallel algorithm of core maintenance, which is an important graph algorithm and has many applications. 
 * [Efficient parallel graph trimming by arc-consistency](https://link.springer.com/article/10.1007/s11227-022-04457-9). This paper has been published in the Journal of Supercomputing.
 
-## 2) Distributed and Federated Graph Algorithms 
+## 2) Concurrent Data Structures
+We study lock-free data structures, like the order maintenance (OM) data structure, that can maintain the order of a list concurrently. For details, you can read my selected papaers:
+*[New concurrent order maintenance data structure](10.1016/j.jpdc.2026.105238)
+
+## 3) Distributed and Federated Graph Algorithms 
 Traditional distributed graph algorithms often rely on centralized servers for synchronization and rarely consider data privacy & security. We try to improve these distributed algorithms by using decentralized methods and protecting private information, so-called federated algorithms. Currently, I am working on the Federated Core Maintenance Problems. 
 
-## 3) Computer Security and Privacy
+## 4) Computer Security and Privacy
 Our research on graph algorithms can be extended to privacy and security. The problem is to design algorithms that can finish the calculation without leaking users' private information. 
 
 
